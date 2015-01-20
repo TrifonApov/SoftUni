@@ -3,3 +3,6 @@ conflicting changes in the both local repositories (e.g. add something at the en
 Commit the changes in the first local repository (git add .followed by git commit), then push them to GitHub
 (git push). Try the same with the second repository. You will need to merge the conflicting changes (git pull),
 them commit and push again.
+
+
+Първа промяна
