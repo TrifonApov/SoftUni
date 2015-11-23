@@ -4,3 +4,9 @@ D:\SoftUni\#1.Fundamentals\#1.2OOP\02-Static-Members-and-Namespaces\StaticMember
 D:\SoftUni\#1.Fundamentals\#1.2OOP\02-Static-Members-and-Namespaces\StaticMembersAndNamespaces\HTMLDispatcher\obj\Debug\05.HTMLDispatcher.csprojResolveAssemblyReference.cache
 D:\SoftUni\#1.Fundamentals\#1.2OOP\02-Static-Members-and-Namespaces\StaticMembersAndNamespaces\HTMLDispatcher\obj\Debug\HTMLDispatcher.exe
 D:\SoftUni\#1.Fundamentals\#1.2OOP\02-Static-Members-and-Namespaces\StaticMembersAndNamespaces\HTMLDispatcher\obj\Debug\HTMLDispatcher.pdb
+D:\Trash\OOP\SoftUni\OOP\02.0.Static-Members-and-Namespaces\HTMLDispatcher\bin\Debug\HTMLDispatcher.exe.config
+D:\Trash\OOP\SoftUni\OOP\02.0.Static-Members-and-Namespaces\HTMLDispatcher\obj\Debug\HTMLDispatcher.exe
+D:\Trash\OOP\SoftUni\OOP\02.0.Static-Members-and-Namespaces\HTMLDispatcher\obj\Debug\HTMLDispatcher.pdb
+D:\Trash\OOP\SoftUni\OOP\02.0.Static-Members-and-Namespaces\HTMLDispatcher\bin\Debug\HTMLDispatcher.exe
+D:\Trash\OOP\SoftUni\OOP\02.0.Static-Members-and-Namespaces\HTMLDispatcher\bin\Debug\HTMLDispatcher.pdb
+D:\Trash\OOP\SoftUni\OOP\02.0.Static-Members-and-Namespaces\HTMLDispatcher\obj\Debug\05.HTMLDispatcher.csprojResolveAssemblyReference.cache

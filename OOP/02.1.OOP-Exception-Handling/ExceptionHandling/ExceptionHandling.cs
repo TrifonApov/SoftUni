@@ -6,7 +6,7 @@
     {
         static void Main()
         {
-            
+
             //var noLastName = new Person("FirstName", "  ", 21);
             //var nullFirstName = new Person(null, "LastName", 21);
             //var nullLastName = new Person("FirstName", null, 21);

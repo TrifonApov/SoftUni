@@ -7,3 +7,9 @@ D:\SoftUni\#1.Fundamentals\#1.2OOP\02.1.OOP-Exception-Handling\ExceptionHandling
 D:\SoftUni\GitHub\OOP\02.1.OOP-Exception-Handling\EnterNumbers\bin\Debug\EnterNumbers.exe.config
 D:\SoftUni\GitHub\OOP\02.1.OOP-Exception-Handling\EnterNumbers\obj\Debug\EnterNumbers.exe
 D:\SoftUni\GitHub\OOP\02.1.OOP-Exception-Handling\EnterNumbers\obj\Debug\EnterNumbers.pdb
+D:\Trash\OOP\SoftUni\OOP\02.1.OOP-Exception-Handling\EnterNumbers\bin\Debug\EnterNumbers.exe.config
+D:\Trash\OOP\SoftUni\OOP\02.1.OOP-Exception-Handling\EnterNumbers\obj\Debug\EnterNumbers.exe
+D:\Trash\OOP\SoftUni\OOP\02.1.OOP-Exception-Handling\EnterNumbers\obj\Debug\EnterNumbers.pdb
+D:\Trash\OOP\SoftUni\OOP\02.1.OOP-Exception-Handling\EnterNumbers\bin\Debug\EnterNumbers.exe
+D:\Trash\OOP\SoftUni\OOP\02.1.OOP-Exception-Handling\EnterNumbers\bin\Debug\EnterNumbers.pdb
+D:\Trash\OOP\SoftUni\OOP\02.1.OOP-Exception-Handling\EnterNumbers\obj\Debug\02.EnterNumbers.csprojResolveAssemblyReference.cache

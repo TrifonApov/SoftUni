@@ -1,0 +1,6 @@
+D:\Trash\OOP\SoftUni\OOP\02.1.OOP-Exception-Handling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+D:\Trash\OOP\SoftUni\OOP\02.1.OOP-Exception-Handling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+D:\Trash\OOP\SoftUni\OOP\02.1.OOP-Exception-Handling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+D:\Trash\OOP\SoftUni\OOP\02.1.OOP-Exception-Handling\ExceptionHandling\obj\Debug\ExceptionHandling.csprojResolveAssemblyReference.cache
+D:\Trash\OOP\SoftUni\OOP\02.1.OOP-Exception-Handling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+D:\Trash\OOP\SoftUni\OOP\02.1.OOP-Exception-Handling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

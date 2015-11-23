@@ -40,9 +40,13 @@
                 {
                     Console.Write("Invalid number. Enter a valid integer number: ");
                 }
-                catch (ArgumentOutOfRangeException e)
+                catch (ArgumentOutOfRangeException)
                 {
                     Console.Write("Number should be in the range [{0} ... {1}]. Try again: ", start, end);
+                }
+                catch (OverflowException e)
+                {
+                    Console.WriteLine(e.Message);
                 }
             }
         }
