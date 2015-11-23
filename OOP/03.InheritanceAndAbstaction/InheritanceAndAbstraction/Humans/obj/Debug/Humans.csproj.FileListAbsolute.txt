@@ -1,0 +1,6 @@
+D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\Humans\bin\Debug\Humans.exe.config
+D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\Humans\bin\Debug\Humans.exe
+D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\Humans\bin\Debug\Humans.pdb
+D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\Humans\obj\Debug\Humans.exe
+D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\Humans\obj\Debug\Humans.pdb
+D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\Humans\obj\Debug\Humans.csprojResolveAssemblyReference.cache
