@@ -1,0 +1,10 @@
+D:\SoftUni\#1.Fundamentals\#1.2OOP\02-Static-Members-and-Namespaces\StaticMembersAndNamespaces\Paths\bin\Debug\Paths.exe.config
+D:\SoftUni\#1.Fundamentals\#1.2OOP\02-Static-Members-and-Namespaces\StaticMembersAndNamespaces\Paths\bin\Debug\Paths.exe
+D:\SoftUni\#1.Fundamentals\#1.2OOP\02-Static-Members-and-Namespaces\StaticMembersAndNamespaces\Paths\bin\Debug\Paths.pdb
+D:\SoftUni\#1.Fundamentals\#1.2OOP\02-Static-Members-and-Namespaces\StaticMembersAndNamespaces\Paths\bin\Debug\CalculateDistance.exe
+D:\SoftUni\#1.Fundamentals\#1.2OOP\02-Static-Members-and-Namespaces\StaticMembersAndNamespaces\Paths\bin\Debug\Point3D.exe
+D:\SoftUni\#1.Fundamentals\#1.2OOP\02-Static-Members-and-Namespaces\StaticMembersAndNamespaces\Paths\bin\Debug\CalculateDistance.pdb
+D:\SoftUni\#1.Fundamentals\#1.2OOP\02-Static-Members-and-Namespaces\StaticMembersAndNamespaces\Paths\bin\Debug\Point3D.pdb
+D:\SoftUni\#1.Fundamentals\#1.2OOP\02-Static-Members-and-Namespaces\StaticMembersAndNamespaces\Paths\obj\Debug\03.Paths.csprojResolveAssemblyReference.cache
+D:\SoftUni\#1.Fundamentals\#1.2OOP\02-Static-Members-and-Namespaces\StaticMembersAndNamespaces\Paths\obj\Debug\Paths.exe
+D:\SoftUni\#1.Fundamentals\#1.2OOP\02-Static-Members-and-Namespaces\StaticMembersAndNamespaces\Paths\obj\Debug\Paths.pdb

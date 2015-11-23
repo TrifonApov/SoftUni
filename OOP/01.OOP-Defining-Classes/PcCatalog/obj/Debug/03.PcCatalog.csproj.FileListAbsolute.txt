@@ -1,0 +1,5 @@
+D:\SoftUni\#1.Fundamentals\#1.2OOP\01-OOP-Defining-Classes\PcCatalog\bin\Debug\PcCatalog.exe.config
+D:\SoftUni\#1.Fundamentals\#1.2OOP\01-OOP-Defining-Classes\PcCatalog\bin\Debug\PcCatalog.exe
+D:\SoftUni\#1.Fundamentals\#1.2OOP\01-OOP-Defining-Classes\PcCatalog\bin\Debug\PcCatalog.pdb
+D:\SoftUni\#1.Fundamentals\#1.2OOP\01-OOP-Defining-Classes\PcCatalog\obj\Debug\PcCatalog.exe
+D:\SoftUni\#1.Fundamentals\#1.2OOP\01-OOP-Defining-Classes\PcCatalog\obj\Debug\PcCatalog.pdb
