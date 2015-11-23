@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{24E273F8-6F94-4A00-AD83-9AFC77B3F85A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Inheritance", "Inheritance", "{392B649A-1F38-4756-8C24-F984F0915708}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Abstraction", "Abstraction", "{15156294-CB87-43CB-9A30-7C9BF2930B18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookShop", "BookShop\BookShop.csproj", "{AA87B306-E9FA-4988-BD7C-C0BDD64AFA48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGGame", "RPGGame\RPGGame.csproj", "{57F50555-652D-495E-B94A-ECAB623034F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homework", "Homework", "{5D9D939E-0DC8-423C-BEBC-40A9CA9FBD65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA87B306-E9FA-4988-BD7C-C0BDD64AFA48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA87B306-E9FA-4988-BD7C-C0BDD64AFA48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA87B306-E9FA-4988-BD7C-C0BDD64AFA48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA87B306-E9FA-4988-BD7C-C0BDD64AFA48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57F50555-652D-495E-B94A-ECAB623034F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F50555-652D-495E-B94A-ECAB623034F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F50555-652D-495E-B94A-ECAB623034F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F50555-652D-495E-B94A-ECAB623034F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{392B649A-1F38-4756-8C24-F984F0915708} = {24E273F8-6F94-4A00-AD83-9AFC77B3F85A}
+		{15156294-CB87-43CB-9A30-7C9BF2930B18} = {24E273F8-6F94-4A00-AD83-9AFC77B3F85A}
+		{AA87B306-E9FA-4988-BD7C-C0BDD64AFA48} = {392B649A-1F38-4756-8C24-F984F0915708}
+		{57F50555-652D-495E-B94A-ECAB623034F9} = {15156294-CB87-43CB-9A30-7C9BF2930B18}
+	EndGlobalSection
+EndGlobal

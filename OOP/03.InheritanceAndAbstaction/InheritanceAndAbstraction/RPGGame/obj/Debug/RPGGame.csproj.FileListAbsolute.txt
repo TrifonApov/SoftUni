@@ -1,0 +1,5 @@
+D:\Trash\OOP\SoftUni\OOP\03.Inheritance\InheritanceAndAbstraction\RPGGame\bin\Debug\RPGGame.exe.config
+D:\Trash\OOP\SoftUni\OOP\03.Inheritance\InheritanceAndAbstraction\RPGGame\bin\Debug\RPGGame.exe
+D:\Trash\OOP\SoftUni\OOP\03.Inheritance\InheritanceAndAbstraction\RPGGame\bin\Debug\RPGGame.pdb
+D:\Trash\OOP\SoftUni\OOP\03.Inheritance\InheritanceAndAbstraction\RPGGame\obj\Debug\RPGGame.exe
+D:\Trash\OOP\SoftUni\OOP\03.Inheritance\InheritanceAndAbstraction\RPGGame\obj\Debug\RPGGame.pdb

@@ -1,0 +1,5 @@
+D:\Trash\OOP\SoftUni\OOP\03.Inheritance\InheritanceAndAbstraction\BookShop\bin\Debug\BookShop.pdb
+D:\Trash\OOP\SoftUni\OOP\03.Inheritance\InheritanceAndAbstraction\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+D:\Trash\OOP\SoftUni\OOP\03.Inheritance\InheritanceAndAbstraction\BookShop\obj\Debug\BookShop.pdb
+D:\Trash\OOP\SoftUni\OOP\03.Inheritance\InheritanceAndAbstraction\BookShop\bin\Debug\BookShop.exe
+D:\Trash\OOP\SoftUni\OOP\03.Inheritance\InheritanceAndAbstraction\BookShop\obj\Debug\BookShop.exe
