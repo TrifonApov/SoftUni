@@ -4,3 +4,9 @@ D:\SoftUni\#1.Fundamentals\#1.2OOP\01-OOP-Defining-Classes\LaptopShop\bin\Debug\
 D:\SoftUni\#1.Fundamentals\#1.2OOP\01-OOP-Defining-Classes\LaptopShop\obj\Debug\LaptopShop.exe
 D:\SoftUni\#1.Fundamentals\#1.2OOP\01-OOP-Defining-Classes\LaptopShop\obj\Debug\LaptopShop.pdb
 D:\SoftUni\#1.Fundamentals\#1.2OOP\01-OOP-Defining-Classes\LaptopShop\obj\Debug\02.LaptopShop.csprojResolveAssemblyReference.cache
+D:\Trash\OOP\SoftUni\OOP\01.OOP-Defining-Classes\LaptopShop\bin\Debug\LaptopShop.exe.config
+D:\Trash\OOP\SoftUni\OOP\01.OOP-Defining-Classes\LaptopShop\bin\Debug\LaptopShop.exe
+D:\Trash\OOP\SoftUni\OOP\01.OOP-Defining-Classes\LaptopShop\bin\Debug\LaptopShop.pdb
+D:\Trash\OOP\SoftUni\OOP\01.OOP-Defining-Classes\LaptopShop\obj\Debug\02.LaptopShop.csprojResolveAssemblyReference.cache
+D:\Trash\OOP\SoftUni\OOP\01.OOP-Defining-Classes\LaptopShop\obj\Debug\LaptopShop.exe
+D:\Trash\OOP\SoftUni\OOP\01.OOP-Defining-Classes\LaptopShop\obj\Debug\LaptopShop.pdb
