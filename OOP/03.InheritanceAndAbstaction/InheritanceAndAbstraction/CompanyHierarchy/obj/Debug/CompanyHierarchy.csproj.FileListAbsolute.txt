@@ -3,3 +3,9 @@ D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\Comp
 D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.pdb
 D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.exe
 D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.pdb
+D:\Trash\Git\SoftUni\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.exe.config
+D:\Trash\Git\SoftUni\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.exe
+D:\Trash\Git\SoftUni\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.pdb
+D:\Trash\Git\SoftUni\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.exe
+D:\Trash\Git\SoftUni\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.pdb
+D:\Trash\Git\SoftUni\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.csprojResolveAssemblyReference.cache

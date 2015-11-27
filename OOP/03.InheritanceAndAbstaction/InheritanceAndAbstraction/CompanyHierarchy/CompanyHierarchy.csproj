@@ -42,9 +42,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CompanyHierarchyMain.cs" />
+    <Compile Include="Enums\Department.cs" />
+    <Compile Include="Enums\ProjectState.cs" />
     <Compile Include="Models\Customers\Customer.cs" />
+    <Compile Include="Models\Employees\Developer.cs" />
     <Compile Include="Models\Employees\Employee.cs" />
+    <Compile Include="Models\Employees\Manager.cs" />
+    <Compile Include="Models\Employees\RegularEmployee.cs" />
+    <Compile Include="Models\Employees\SalesEmployee.cs" />
     <Compile Include="Models\Person.cs" />
+    <Compile Include="Models\Sales\Project.cs" />
+    <Compile Include="Models\Sales\Product.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
