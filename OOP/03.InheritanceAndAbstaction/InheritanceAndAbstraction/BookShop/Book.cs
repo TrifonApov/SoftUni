@@ -68,7 +68,11 @@
 
         public override string ToString()
         {
-            return $"-Type: {this.GetType().Name}\n-Title: {this.Title}\n-Author: {this.Author}\n-Price: {this.Price.ToString("F2")}";
+            return string.Format("-Type: {0}\n-Title: {1}\n-Author: {2}\n-Price: {3}",
+                this.GetType().Name,
+                this.Title,
+                this.Author,
+                this.Price.ToString("F2"));
         }
     }
 }

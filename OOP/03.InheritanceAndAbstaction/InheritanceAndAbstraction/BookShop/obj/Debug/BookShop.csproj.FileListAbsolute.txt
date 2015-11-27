@@ -3,3 +3,9 @@ D:\Trash\OOP\SoftUni\OOP\03.Inheritance\InheritanceAndAbstraction\BookShop\obj\D
 D:\Trash\OOP\SoftUni\OOP\03.Inheritance\InheritanceAndAbstraction\BookShop\obj\Debug\BookShop.pdb
 D:\Trash\OOP\SoftUni\OOP\03.Inheritance\InheritanceAndAbstraction\BookShop\bin\Debug\BookShop.exe
 D:\Trash\OOP\SoftUni\OOP\03.Inheritance\InheritanceAndAbstraction\BookShop\obj\Debug\BookShop.exe
+D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\BookShop\obj\Debug\BookShop.exe
+D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\BookShop\obj\Debug\BookShop.pdb
+D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\BookShop\bin\Debug\BookShop.exe.config
+D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\BookShop\bin\Debug\BookShop.exe
+D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\BookShop\bin\Debug\BookShop.pdb

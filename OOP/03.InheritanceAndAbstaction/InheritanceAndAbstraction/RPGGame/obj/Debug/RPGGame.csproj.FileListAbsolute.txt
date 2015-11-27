@@ -3,3 +3,9 @@ D:\Trash\OOP\SoftUni\OOP\03.Inheritance\InheritanceAndAbstraction\RPGGame\bin\De
 D:\Trash\OOP\SoftUni\OOP\03.Inheritance\InheritanceAndAbstraction\RPGGame\bin\Debug\RPGGame.pdb
 D:\Trash\OOP\SoftUni\OOP\03.Inheritance\InheritanceAndAbstraction\RPGGame\obj\Debug\RPGGame.exe
 D:\Trash\OOP\SoftUni\OOP\03.Inheritance\InheritanceAndAbstraction\RPGGame\obj\Debug\RPGGame.pdb
+D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\RPGGame\bin\Debug\RPGGame.exe.config
+D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\RPGGame\obj\Debug\RPGGame.exe
+D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\RPGGame\obj\Debug\RPGGame.pdb
+D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\RPGGame\obj\Debug\RPGGame.csprojResolveAssemblyReference.cache
+D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\RPGGame\bin\Debug\RPGGame.exe
+D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\RPGGame\bin\Debug\RPGGame.pdb

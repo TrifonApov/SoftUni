@@ -23,7 +23,11 @@
         {
             return
                 string.Format(
-                    $"{this.GetType().Name}\n\tHealt: {this.Health}\n\tMana: {this.Mana}\n\tDamage: {this.Damage}");
+                    "{0}\n\tHealt: {1}\n\tMana: {2}\n\tDamage: {3}",
+                    this.GetType().Name,
+                    this.Health,
+                    this.Mana,
+                    this.Damage);
         }
     }
 }
