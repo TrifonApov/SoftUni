@@ -1,0 +1,6 @@
+D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\Animals\bin\Debug\Animals.exe.config
+D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\Animals\bin\Debug\Animals.exe
+D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\Animals\bin\Debug\Animals.pdb
+D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache
+D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\Animals\obj\Debug\Animals.exe
+D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\Animals\obj\Debug\Animals.pdb
