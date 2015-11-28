@@ -44,6 +44,12 @@
     <Compile Include="CompanyHierarchyMain.cs" />
     <Compile Include="Enums\Department.cs" />
     <Compile Include="Enums\ProjectState.cs" />
+    <Compile Include="Interfaces\IDeveloper.cs" />
+    <Compile Include="Interfaces\IEmployee.cs" />
+    <Compile Include="Interfaces\IManager.cs" />
+    <Compile Include="Interfaces\IPerson.cs" />
+    <Compile Include="Interfaces\IRegularEmployee.cs" />
+    <Compile Include="Interfaces\ISalesEmployee.cs" />
     <Compile Include="Models\Customers\Customer.cs" />
     <Compile Include="Models\Employees\Developer.cs" />
     <Compile Include="Models\Employees\Employee.cs" />
@@ -54,13 +60,12 @@
     <Compile Include="Models\Sales\Project.cs" />
     <Compile Include="Models\Sales\Product.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Validation\Validate.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Interfaces\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

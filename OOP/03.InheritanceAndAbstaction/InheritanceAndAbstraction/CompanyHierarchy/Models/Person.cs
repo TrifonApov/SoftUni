@@ -1,24 +1,26 @@
 ﻿namespace CompanyHierarchy.Models
 {
-    using System;
+    using Interfaces;
 
-    public abstract class Person
+    public abstract class Person : IPerson
     {
         private int id;
         private string firstName;
         private string lastName;
+
+        protected Person(int id, string firstName, string lastName)
+        {
+            this.Id = id;
+            this.FirstName = firstName;
+            this.LastName = lastName;
+        }
 
         public int Id
         {
             get { return this.id; }
             set
             {
-                if (value < 0)
-                {
-                    throw new ArgumentOutOfRangeException(
-                        nameof(value),
-                        "Cannot be negative");
-                }
+                Validation.Validate.IsNegative("Id", value);
                 this.id = value;
             }
         }
@@ -28,12 +30,7 @@
             get { return this.firstName; }
             set
             {
-                if (string.IsNullOrWhiteSpace(value))
-                {
-                    throw new ArgumentNullException(
-                        nameof(value),
-                        "First name cannot null or empty");
-                }
+                Validation.Validate.IsNullOrEmpty("First name", value);
                 this.firstName = value;
             }
         }
@@ -43,14 +40,14 @@
             get { return this.lastName; }
             set
             {
-                if (string.IsNullOrWhiteSpace(value))
-                {
-                    throw new ArgumentNullException(
-                        nameof(value),
-                        "Last name cannot null or empty");
-                }
-                this.firstName = value; this.lastName = value;
+                Validation.Validate.IsNullOrEmpty("Last name", value);
+                this.lastName = value;
             }
+        }
+
+        public override string ToString()
+        {
+            return string.Format("{0}: {1} {2}", this.Id, this.FirstName, this.LastName);
         }
     }
 }

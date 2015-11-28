@@ -5,13 +5,13 @@
     public class Product
     {
         private string productName;
-        private DateTime date;
+        private DateTime dateOfSale;
         private decimal price;
 
-        public Product(string productName, DateTime date, decimal price)
+        public Product(string productName, DateTime dateOfSale, decimal price)
         {
             this.ProductName = productName;
-            this.Date = date;
+            this.DateOfSale = dateOfSale;
             this.Price = price;
         }
 
@@ -20,20 +20,19 @@
             get { return this.productName; }
             set
             {
-                if (string.IsNullOrEmpty(value))
-                {
-                    throw new ArgumentNullException(
-                        nameof(value),
-                        "Product name cannot be null or empty.");
-                }
+                Validation.Validate.IsNullOrEmpty("Product name", value);
                 this.productName = value;
             }
         }
 
-        public DateTime Date
+        public DateTime DateOfSale
         {
-            get { return this.date; }
-            set { this.date = value; }
+            get { return this.dateOfSale; }
+            set
+            {
+                Validation.Validate.DateOfSale("Date of sale", value);
+                this.dateOfSale = value;
+            }
         }
 
         public decimal Price
@@ -41,14 +40,17 @@
             get { return this.price; }
             set
             {
-                if (value < 0)
-                {
-                    throw new ArgumentNullException(
-                        nameof(value),
-                        "Price cannot be negative.");
-                }
+                Validation.Validate.IsNegative("Product price", value);
                 this.price = value;
             }
+        }
+
+        public override string ToString()
+        {
+            return string.Format("Product: {0}, Date of sale: {1:dd-MM-yyyy} Price: {2:C2}",
+                this.ProductName,
+                this.DateOfSale,
+                this.Price);
         }
     }
 }

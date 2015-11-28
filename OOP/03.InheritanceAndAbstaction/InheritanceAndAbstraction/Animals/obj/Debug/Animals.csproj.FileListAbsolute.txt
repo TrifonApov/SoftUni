@@ -7,3 +7,9 @@ D:\SoftUni\GitHub\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\Anim
 D:\Trash\Git\SoftUni\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\Animals\bin\Debug\Animals.exe.config
 D:\Trash\Git\SoftUni\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\Animals\obj\Debug\Animals.exe
 D:\Trash\Git\SoftUni\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\Animals\obj\Debug\Animals.pdb
+D:\SoftUni\GitHub\SoftUni\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\Animals\bin\Debug\Animals.exe.config
+D:\SoftUni\GitHub\SoftUni\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\Animals\obj\Debug\Animals.exe
+D:\SoftUni\GitHub\SoftUni\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\Animals\obj\Debug\Animals.pdb
+D:\SoftUni\GitHub\SoftUni\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\Animals\bin\Debug\Animals.exe
+D:\SoftUni\GitHub\SoftUni\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\Animals\bin\Debug\Animals.pdb
+D:\SoftUni\GitHub\SoftUni\OOP\03.InheritanceAndAbstaction\InheritanceAndAbstraction\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache

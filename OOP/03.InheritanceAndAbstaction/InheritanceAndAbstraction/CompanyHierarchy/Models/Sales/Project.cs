@@ -13,6 +13,7 @@
         {
             this.ProjectName = projectName;
             this.StartDate = startDate;
+            this.ProjectState = ProjectState.Open;
         }
 
         public string ProjectName
@@ -20,12 +21,7 @@
             get { return this.projectName; }
             set
             {
-                if (string.IsNullOrEmpty(value))
-                {
-                    throw new ArgumentNullException(
-                        nameof(value),
-                        "Project name cannot be null or empty.");
-                }
+                Validation.Validate.IsNullOrEmpty("Prject name", value);
                 this.projectName = value;
             }
         }
@@ -41,16 +37,21 @@
         public ProjectState ProjectState
         {
             get { return this.projectState; }
-            private set {
-                this.projectState = this.StartDate <= DateTime.Now
-                    ? ProjectState.Open
-                    : ProjectState.Close;
-            }
+            private set { this.projectState = value; }
         }
 
         public void CloseProject()
         {
             this.ProjectState = ProjectState.Close;
+        }
+        
+        public override string ToString()
+        {
+            return string.Format("Project name: {0}, Details: {1}, Start: {2:dd-MM-yyyy} State: {3}",
+                this.ProjectName,
+                string.IsNullOrWhiteSpace(this.Details) ? "No details" : this.Details,
+                this.StartDate,
+                this.ProjectState);
         }
     }
 }

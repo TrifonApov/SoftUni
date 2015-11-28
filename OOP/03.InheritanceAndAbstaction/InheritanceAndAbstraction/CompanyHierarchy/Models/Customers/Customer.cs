@@ -1,6 +1,6 @@
 ﻿namespace CompanyHierarchy.Models.Customers
 {
-    public class Customer : Person
+    public class Customer
     {
          
     }
