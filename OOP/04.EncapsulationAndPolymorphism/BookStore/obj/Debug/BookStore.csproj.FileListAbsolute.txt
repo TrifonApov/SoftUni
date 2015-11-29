@@ -1,0 +1,6 @@
+D:\SoftUni\GitHub\SoftUni\OOP\04.EncapsulationAndPolymorphism\BookStore\bin\Debug\BookStore.exe.config
+D:\SoftUni\GitHub\SoftUni\OOP\04.EncapsulationAndPolymorphism\BookStore\bin\Debug\BookStore.exe
+D:\SoftUni\GitHub\SoftUni\OOP\04.EncapsulationAndPolymorphism\BookStore\bin\Debug\BookStore.pdb
+D:\SoftUni\GitHub\SoftUni\OOP\04.EncapsulationAndPolymorphism\BookStore\obj\Debug\BookStore.exe
+D:\SoftUni\GitHub\SoftUni\OOP\04.EncapsulationAndPolymorphism\BookStore\obj\Debug\BookStore.pdb
+D:\SoftUni\GitHub\SoftUni\OOP\04.EncapsulationAndPolymorphism\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache

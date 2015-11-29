@@ -1,0 +1,4 @@
+D:\SoftUni\GitHub\SoftUni\OOP\04.EncapsulationAndPolymorphism\TheSlum-Skeleton\bin\Debug\TheSlum.exe
+D:\SoftUni\GitHub\SoftUni\OOP\04.EncapsulationAndPolymorphism\TheSlum-Skeleton\bin\Debug\TheSlum.pdb
+D:\SoftUni\GitHub\SoftUni\OOP\04.EncapsulationAndPolymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.exe
+D:\SoftUni\GitHub\SoftUni\OOP\04.EncapsulationAndPolymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.pdb

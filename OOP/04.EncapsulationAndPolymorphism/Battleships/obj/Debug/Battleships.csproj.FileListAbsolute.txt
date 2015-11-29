@@ -1,0 +1,6 @@
+D:\SoftUni\GitHub\SoftUni\OOP\04.EncapsulationAndPolymorphism\Battleships\bin\Debug\Battleships.exe.config
+D:\SoftUni\GitHub\SoftUni\OOP\04.EncapsulationAndPolymorphism\Battleships\bin\Debug\Battleships.exe
+D:\SoftUni\GitHub\SoftUni\OOP\04.EncapsulationAndPolymorphism\Battleships\bin\Debug\Battleships.pdb
+D:\SoftUni\GitHub\SoftUni\OOP\04.EncapsulationAndPolymorphism\Battleships\obj\Debug\Battleships.csprojResolveAssemblyReference.cache
+D:\SoftUni\GitHub\SoftUni\OOP\04.EncapsulationAndPolymorphism\Battleships\obj\Debug\Battleships.exe
+D:\SoftUni\GitHub\SoftUni\OOP\04.EncapsulationAndPolymorphism\Battleships\obj\Debug\Battleships.pdb
