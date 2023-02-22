@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Archive for Judge
+*.zip
+*.7z
+*.rar
