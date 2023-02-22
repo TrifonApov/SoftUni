@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\09-Pokemon-Trainer\bin\Debug\net6.0\09-Pokemon-Trainer.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\09-Pokemon-Trainer\bin\Debug\net6.0\09-Pokemon-Trainer.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\09-Pokemon-Trainer\bin\Debug\net6.0\09-Pokemon-Trainer.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\09-Pokemon-Trainer\bin\Debug\net6.0\09-Pokemon-Trainer.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\09-Pokemon-Trainer\bin\Debug\net6.0\09-Pokemon-Trainer.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\09-Pokemon-Trainer\obj\Debug\net6.0\09-Pokemon-Trainer.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\09-Pokemon-Trainer\obj\Debug\net6.0\09-Pokemon-Trainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\09-Pokemon-Trainer\obj\Debug\net6.0\09-Pokemon-Trainer.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\09-Pokemon-Trainer\obj\Debug\net6.0\09-Pokemon-Trainer.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\09-Pokemon-Trainer\obj\Debug\net6.0\09-Pokemon-Trainer.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\09-Pokemon-Trainer\obj\Debug\net6.0\09-Pokemon-Trainer.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\09-Pokemon-Trainer\obj\Debug\net6.0\refint\09-Pokemon-Trainer.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\09-Pokemon-Trainer\obj\Debug\net6.0\09-Pokemon-Trainer.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\09-Pokemon-Trainer\obj\Debug\net6.0\09-Pokemon-Trainer.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\09-Pokemon-Trainer\obj\Debug\net6.0\ref\09-Pokemon-Trainer.dll

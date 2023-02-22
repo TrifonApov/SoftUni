@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-06-Record-Unique-Names\bin\Debug\net6.0\Lab-06-Record-Unique-Names.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-06-Record-Unique-Names\bin\Debug\net6.0\Lab-06-Record-Unique-Names.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-06-Record-Unique-Names\bin\Debug\net6.0\Lab-06-Record-Unique-Names.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-06-Record-Unique-Names\bin\Debug\net6.0\Lab-06-Record-Unique-Names.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-06-Record-Unique-Names\bin\Debug\net6.0\Lab-06-Record-Unique-Names.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-06-Record-Unique-Names\obj\Debug\net6.0\Lab-06-Record-Unique-Names.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-06-Record-Unique-Names\obj\Debug\net6.0\Lab-06-Record-Unique-Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-06-Record-Unique-Names\obj\Debug\net6.0\Lab-06-Record-Unique-Names.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-06-Record-Unique-Names\obj\Debug\net6.0\Lab-06-Record-Unique-Names.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-06-Record-Unique-Names\obj\Debug\net6.0\Lab-06-Record-Unique-Names.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-06-Record-Unique-Names\obj\Debug\net6.0\Lab-06-Record-Unique-Names.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-06-Record-Unique-Names\obj\Debug\net6.0\refint\Lab-06-Record-Unique-Names.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-06-Record-Unique-Names\obj\Debug\net6.0\Lab-06-Record-Unique-Names.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-06-Record-Unique-Names\obj\Debug\net6.0\Lab-06-Record-Unique-Names.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-06-Record-Unique-Names\obj\Debug\net6.0\ref\Lab-06-Record-Unique-Names.dll

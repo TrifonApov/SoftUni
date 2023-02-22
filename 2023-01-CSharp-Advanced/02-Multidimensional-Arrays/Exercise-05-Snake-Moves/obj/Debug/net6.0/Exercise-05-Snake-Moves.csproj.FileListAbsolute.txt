@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-05-Snake-Moves\bin\Debug\net6.0\Exercise-05-Snake-Moves.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-05-Snake-Moves\bin\Debug\net6.0\Exercise-05-Snake-Moves.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-05-Snake-Moves\bin\Debug\net6.0\Exercise-05-Snake-Moves.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-05-Snake-Moves\bin\Debug\net6.0\Exercise-05-Snake-Moves.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-05-Snake-Moves\bin\Debug\net6.0\Exercise-05-Snake-Moves.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-05-Snake-Moves\obj\Debug\net6.0\Exercise-05-Snake-Moves.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-05-Snake-Moves\obj\Debug\net6.0\Exercise-05-Snake-Moves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-05-Snake-Moves\obj\Debug\net6.0\Exercise-05-Snake-Moves.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-05-Snake-Moves\obj\Debug\net6.0\Exercise-05-Snake-Moves.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-05-Snake-Moves\obj\Debug\net6.0\Exercise-05-Snake-Moves.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-05-Snake-Moves\obj\Debug\net6.0\Exercise-05-Snake-Moves.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-05-Snake-Moves\obj\Debug\net6.0\refint\Exercise-05-Snake-Moves.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-05-Snake-Moves\obj\Debug\net6.0\Exercise-05-Snake-Moves.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-05-Snake-Moves\obj\Debug\net6.0\Exercise-05-Snake-Moves.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-05-Snake-Moves\obj\Debug\net6.0\ref\Exercise-05-Snake-Moves.dll

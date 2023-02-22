@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\04-Opinion-Poll\bin\Debug\net6.0\04-Opinion-Poll.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\04-Opinion-Poll\bin\Debug\net6.0\04-Opinion-Poll.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\04-Opinion-Poll\bin\Debug\net6.0\04-Opinion-Poll.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\04-Opinion-Poll\bin\Debug\net6.0\04-Opinion-Poll.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\04-Opinion-Poll\bin\Debug\net6.0\04-Opinion-Poll.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\04-Opinion-Poll\obj\Debug\net6.0\04-Opinion-Poll.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\04-Opinion-Poll\obj\Debug\net6.0\04-Opinion-Poll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\04-Opinion-Poll\obj\Debug\net6.0\04-Opinion-Poll.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\04-Opinion-Poll\obj\Debug\net6.0\04-Opinion-Poll.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\04-Opinion-Poll\obj\Debug\net6.0\04-Opinion-Poll.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\04-Opinion-Poll\obj\Debug\net6.0\04-Opinion-Poll.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\04-Opinion-Poll\obj\Debug\net6.0\refint\04-Opinion-Poll.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\04-Opinion-Poll\obj\Debug\net6.0\04-Opinion-Poll.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\04-Opinion-Poll\obj\Debug\net6.0\04-Opinion-Poll.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\04-Opinion-Poll\obj\Debug\net6.0\ref\04-Opinion-Poll.dll

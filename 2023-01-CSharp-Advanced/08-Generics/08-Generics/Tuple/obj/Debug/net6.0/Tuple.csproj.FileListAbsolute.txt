@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Tuple\bin\Debug\net6.0\Tuple.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Tuple\bin\Debug\net6.0\Tuple.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Tuple\bin\Debug\net6.0\Tuple.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Tuple\bin\Debug\net6.0\Tuple.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Tuple\bin\Debug\net6.0\Tuple.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Tuple\obj\Debug\net6.0\Tuple.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Tuple\obj\Debug\net6.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Tuple\obj\Debug\net6.0\Tuple.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Tuple\obj\Debug\net6.0\Tuple.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Tuple\obj\Debug\net6.0\Tuple.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Tuple\obj\Debug\net6.0\Tuple.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Tuple\obj\Debug\net6.0\refint\Tuple.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Tuple\obj\Debug\net6.0\Tuple.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Tuple\obj\Debug\net6.0\Tuple.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Tuple\obj\Debug\net6.0\ref\Tuple.dll

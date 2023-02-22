@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\06-Spreed-Racing\obj\Debug\net6.0\06-Spreed-Racing.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\06-Spreed-Racing\obj\Debug\net6.0\06-Spreed-Racing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\06-Spreed-Racing\obj\Debug\net6.0\06-Spreed-Racing.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\06-Spreed-Racing\obj\Debug\net6.0\06-Spreed-Racing.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\06-Spreed-Racing\obj\Debug\net6.0\06-Spreed-Racing.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\06-Spreed-Racing\bin\Debug\net6.0\06-Spreed-Racing.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\06-Spreed-Racing\bin\Debug\net6.0\06-Spreed-Racing.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\06-Spreed-Racing\bin\Debug\net6.0\06-Spreed-Racing.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\06-Spreed-Racing\bin\Debug\net6.0\06-Spreed-Racing.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\06-Spreed-Racing\bin\Debug\net6.0\06-Spreed-Racing.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\06-Spreed-Racing\obj\Debug\net6.0\06-Spreed-Racing.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\06-Spreed-Racing\obj\Debug\net6.0\refint\06-Spreed-Racing.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\06-Spreed-Racing\obj\Debug\net6.0\06-Spreed-Racing.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\06-Spreed-Racing\obj\Debug\net6.0\06-Spreed-Racing.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\06-Spreed-Racing\obj\Debug\net6.0\ref\06-Spreed-Racing.dll

@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\01-Unique-Usernames\bin\Debug\net6.0\01-Unique-Usernames.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\01-Unique-Usernames\bin\Debug\net6.0\01-Unique-Usernames.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\01-Unique-Usernames\bin\Debug\net6.0\01-Unique-Usernames.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\01-Unique-Usernames\bin\Debug\net6.0\01-Unique-Usernames.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\01-Unique-Usernames\bin\Debug\net6.0\01-Unique-Usernames.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\01-Unique-Usernames\obj\Debug\net6.0\01-Unique-Usernames.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\01-Unique-Usernames\obj\Debug\net6.0\01-Unique-Usernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\01-Unique-Usernames\obj\Debug\net6.0\01-Unique-Usernames.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\01-Unique-Usernames\obj\Debug\net6.0\01-Unique-Usernames.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\01-Unique-Usernames\obj\Debug\net6.0\01-Unique-Usernames.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\01-Unique-Usernames\obj\Debug\net6.0\01-Unique-Usernames.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\01-Unique-Usernames\obj\Debug\net6.0\refint\01-Unique-Usernames.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\01-Unique-Usernames\obj\Debug\net6.0\01-Unique-Usernames.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\01-Unique-Usernames\obj\Debug\net6.0\01-Unique-Usernames.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\01-Unique-Usernames\obj\Debug\net6.0\ref\01-Unique-Usernames.dll

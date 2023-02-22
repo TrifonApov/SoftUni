@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-03-Simple-Calculator\bin\Debug\net6.0\Lab-03-Simple-Calculator.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-03-Simple-Calculator\bin\Debug\net6.0\Lab-03-Simple-Calculator.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-03-Simple-Calculator\bin\Debug\net6.0\Lab-03-Simple-Calculator.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-03-Simple-Calculator\bin\Debug\net6.0\Lab-03-Simple-Calculator.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-03-Simple-Calculator\bin\Debug\net6.0\Lab-03-Simple-Calculator.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-03-Simple-Calculator\obj\Debug\net6.0\Lab-03-Simple-Calculator.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-03-Simple-Calculator\obj\Debug\net6.0\Lab-03-Simple-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-03-Simple-Calculator\obj\Debug\net6.0\Lab-03-Simple-Calculator.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-03-Simple-Calculator\obj\Debug\net6.0\Lab-03-Simple-Calculator.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-03-Simple-Calculator\obj\Debug\net6.0\Lab-03-Simple-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-03-Simple-Calculator\obj\Debug\net6.0\Lab-03-Simple-Calculator.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-03-Simple-Calculator\obj\Debug\net6.0\refint\Lab-03-Simple-Calculator.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-03-Simple-Calculator\obj\Debug\net6.0\Lab-03-Simple-Calculator.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-03-Simple-Calculator\obj\Debug\net6.0\Lab-03-Simple-Calculator.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-03-Simple-Calculator\obj\Debug\net6.0\ref\Lab-03-Simple-Calculator.dll

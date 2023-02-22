@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-03-Largest-3-Numbers\bin\Debug\net6.0\Lab-03-Largest-3-Numbers.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-03-Largest-3-Numbers\bin\Debug\net6.0\Lab-03-Largest-3-Numbers.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-03-Largest-3-Numbers\bin\Debug\net6.0\Lab-03-Largest-3-Numbers.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-03-Largest-3-Numbers\bin\Debug\net6.0\Lab-03-Largest-3-Numbers.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-03-Largest-3-Numbers\bin\Debug\net6.0\Lab-03-Largest-3-Numbers.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-03-Largest-3-Numbers\obj\Debug\net6.0\Lab-03-Largest-3-Numbers.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-03-Largest-3-Numbers\obj\Debug\net6.0\Lab-03-Largest-3-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-03-Largest-3-Numbers\obj\Debug\net6.0\Lab-03-Largest-3-Numbers.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-03-Largest-3-Numbers\obj\Debug\net6.0\Lab-03-Largest-3-Numbers.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-03-Largest-3-Numbers\obj\Debug\net6.0\Lab-03-Largest-3-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-03-Largest-3-Numbers\obj\Debug\net6.0\Lab-03-Largest-3-Numbers.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-03-Largest-3-Numbers\obj\Debug\net6.0\refint\Lab-03-Largest-3-Numbers.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-03-Largest-3-Numbers\obj\Debug\net6.0\Lab-03-Largest-3-Numbers.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-03-Largest-3-Numbers\obj\Debug\net6.0\Lab-03-Largest-3-Numbers.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-03-Largest-3-Numbers\obj\Debug\net6.0\ref\Lab-03-Largest-3-Numbers.dll

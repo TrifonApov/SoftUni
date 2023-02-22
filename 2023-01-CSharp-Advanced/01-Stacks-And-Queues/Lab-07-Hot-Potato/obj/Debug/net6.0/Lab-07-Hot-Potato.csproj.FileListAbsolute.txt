@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-07-Hot-Potato\bin\Debug\net6.0\Lab-07-Hot-Potato.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-07-Hot-Potato\bin\Debug\net6.0\Lab-07-Hot-Potato.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-07-Hot-Potato\bin\Debug\net6.0\Lab-07-Hot-Potato.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-07-Hot-Potato\bin\Debug\net6.0\Lab-07-Hot-Potato.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-07-Hot-Potato\bin\Debug\net6.0\Lab-07-Hot-Potato.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-07-Hot-Potato\obj\Debug\net6.0\Lab-07-Hot-Potato.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-07-Hot-Potato\obj\Debug\net6.0\Lab-07-Hot-Potato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-07-Hot-Potato\obj\Debug\net6.0\Lab-07-Hot-Potato.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-07-Hot-Potato\obj\Debug\net6.0\Lab-07-Hot-Potato.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-07-Hot-Potato\obj\Debug\net6.0\Lab-07-Hot-Potato.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-07-Hot-Potato\obj\Debug\net6.0\Lab-07-Hot-Potato.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-07-Hot-Potato\obj\Debug\net6.0\refint\Lab-07-Hot-Potato.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-07-Hot-Potato\obj\Debug\net6.0\Lab-07-Hot-Potato.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-07-Hot-Potato\obj\Debug\net6.0\Lab-07-Hot-Potato.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-07-Hot-Potato\obj\Debug\net6.0\ref\Lab-07-Hot-Potato.dll

@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\03-Periodic-Table\bin\Debug\net6.0\03-Periodic-Table.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\03-Periodic-Table\bin\Debug\net6.0\03-Periodic-Table.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\03-Periodic-Table\bin\Debug\net6.0\03-Periodic-Table.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\03-Periodic-Table\bin\Debug\net6.0\03-Periodic-Table.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\03-Periodic-Table\bin\Debug\net6.0\03-Periodic-Table.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\03-Periodic-Table\obj\Debug\net6.0\03-Periodic-Table.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\03-Periodic-Table\obj\Debug\net6.0\03-Periodic-Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\03-Periodic-Table\obj\Debug\net6.0\03-Periodic-Table.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\03-Periodic-Table\obj\Debug\net6.0\03-Periodic-Table.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\03-Periodic-Table\obj\Debug\net6.0\03-Periodic-Table.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\03-Periodic-Table\obj\Debug\net6.0\03-Periodic-Table.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\03-Periodic-Table\obj\Debug\net6.0\refint\03-Periodic-Table.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\03-Periodic-Table\obj\Debug\net6.0\03-Periodic-Table.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\03-Periodic-Table\obj\Debug\net6.0\03-Periodic-Table.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\03-Periodic-Table\obj\Debug\net6.0\ref\03-Periodic-Table.dll

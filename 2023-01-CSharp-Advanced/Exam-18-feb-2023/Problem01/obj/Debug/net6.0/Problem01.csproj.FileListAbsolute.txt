@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\Problem01\bin\Debug\net6.0\Problem01.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\Problem01\bin\Debug\net6.0\Problem01.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\Problem01\bin\Debug\net6.0\Problem01.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\Problem01\bin\Debug\net6.0\Problem01.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\Problem01\bin\Debug\net6.0\Problem01.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\Problem01\obj\Debug\net6.0\Problem01.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\Problem01\obj\Debug\net6.0\Problem01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\Problem01\obj\Debug\net6.0\Problem01.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\Problem01\obj\Debug\net6.0\Problem01.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\Problem01\obj\Debug\net6.0\Problem01.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\Problem01\obj\Debug\net6.0\Problem01.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\Problem01\obj\Debug\net6.0\refint\Problem01.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\Problem01\obj\Debug\net6.0\Problem01.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\Problem01\obj\Debug\net6.0\Problem01.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\Problem01\obj\Debug\net6.0\ref\Problem01.dll

@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Exercise-07\bin\Debug\net6.0\Exercise-07.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Exercise-07\bin\Debug\net6.0\Exercise-07.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Exercise-07\bin\Debug\net6.0\Exercise-07.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Exercise-07\bin\Debug\net6.0\Exercise-07.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Exercise-07\bin\Debug\net6.0\Exercise-07.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Exercise-07\obj\Debug\net6.0\Exercise-07.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Exercise-07\obj\Debug\net6.0\Exercise-07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Exercise-07\obj\Debug\net6.0\Exercise-07.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Exercise-07\obj\Debug\net6.0\Exercise-07.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Exercise-07\obj\Debug\net6.0\Exercise-07.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Exercise-07\obj\Debug\net6.0\Exercise-07.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Exercise-07\obj\Debug\net6.0\refint\Exercise-07.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Exercise-07\obj\Debug\net6.0\Exercise-07.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Exercise-07\obj\Debug\net6.0\Exercise-07.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Exercise-07\obj\Debug\net6.0\ref\Exercise-07.dll

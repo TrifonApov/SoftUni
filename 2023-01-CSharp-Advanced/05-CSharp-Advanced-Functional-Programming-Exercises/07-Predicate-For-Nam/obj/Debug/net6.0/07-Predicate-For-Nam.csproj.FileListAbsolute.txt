@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\07-Predicate-For-Nam\obj\Debug\net6.0\07-Predicate-For-Nam.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\07-Predicate-For-Nam\obj\Debug\net6.0\07-Predicate-For-Nam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\07-Predicate-For-Nam\obj\Debug\net6.0\07-Predicate-For-Nam.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\07-Predicate-For-Nam\obj\Debug\net6.0\07-Predicate-For-Nam.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\07-Predicate-For-Nam\obj\Debug\net6.0\07-Predicate-For-Nam.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\07-Predicate-For-Nam\bin\Debug\net6.0\07-Predicate-For-Nam.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\07-Predicate-For-Nam\bin\Debug\net6.0\07-Predicate-For-Nam.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\07-Predicate-For-Nam\bin\Debug\net6.0\07-Predicate-For-Nam.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\07-Predicate-For-Nam\bin\Debug\net6.0\07-Predicate-For-Nam.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\07-Predicate-For-Nam\bin\Debug\net6.0\07-Predicate-For-Nam.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\07-Predicate-For-Nam\obj\Debug\net6.0\07-Predicate-For-Nam.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\07-Predicate-For-Nam\obj\Debug\net6.0\refint\07-Predicate-For-Nam.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\07-Predicate-For-Nam\obj\Debug\net6.0\07-Predicate-For-Nam.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\07-Predicate-For-Nam\obj\Debug\net6.0\07-Predicate-For-Nam.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\07-Predicate-For-Nam\obj\Debug\net6.0\ref\07-Predicate-For-Nam.dll

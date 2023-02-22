@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\08-List-Of-Predicate\bin\Debug\net6.0\08-List-Of-Predicate.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\08-List-Of-Predicate\bin\Debug\net6.0\08-List-Of-Predicate.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\08-List-Of-Predicate\bin\Debug\net6.0\08-List-Of-Predicate.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\08-List-Of-Predicate\bin\Debug\net6.0\08-List-Of-Predicate.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\08-List-Of-Predicate\bin\Debug\net6.0\08-List-Of-Predicate.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\08-List-Of-Predicate\obj\Debug\net6.0\08-List-Of-Predicate.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\08-List-Of-Predicate\obj\Debug\net6.0\08-List-Of-Predicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\08-List-Of-Predicate\obj\Debug\net6.0\08-List-Of-Predicate.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\08-List-Of-Predicate\obj\Debug\net6.0\08-List-Of-Predicate.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\08-List-Of-Predicate\obj\Debug\net6.0\08-List-Of-Predicate.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\08-List-Of-Predicate\obj\Debug\net6.0\08-List-Of-Predicate.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\08-List-Of-Predicate\obj\Debug\net6.0\refint\08-List-Of-Predicate.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\08-List-Of-Predicate\obj\Debug\net6.0\08-List-Of-Predicate.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\08-List-Of-Predicate\obj\Debug\net6.0\08-List-Of-Predicate.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\08-List-Of-Predicate\obj\Debug\net6.0\ref\08-List-Of-Predicate.dll

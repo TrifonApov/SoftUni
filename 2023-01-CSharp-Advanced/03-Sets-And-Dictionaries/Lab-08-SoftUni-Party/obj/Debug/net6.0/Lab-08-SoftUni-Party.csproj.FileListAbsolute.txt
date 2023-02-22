@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-08-SoftUni-Party\bin\Debug\net6.0\Lab-08-SoftUni-Party.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-08-SoftUni-Party\bin\Debug\net6.0\Lab-08-SoftUni-Party.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-08-SoftUni-Party\bin\Debug\net6.0\Lab-08-SoftUni-Party.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-08-SoftUni-Party\bin\Debug\net6.0\Lab-08-SoftUni-Party.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-08-SoftUni-Party\bin\Debug\net6.0\Lab-08-SoftUni-Party.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-08-SoftUni-Party\obj\Debug\net6.0\Lab-08-SoftUni-Party.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-08-SoftUni-Party\obj\Debug\net6.0\Lab-08-SoftUni-Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-08-SoftUni-Party\obj\Debug\net6.0\Lab-08-SoftUni-Party.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-08-SoftUni-Party\obj\Debug\net6.0\Lab-08-SoftUni-Party.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-08-SoftUni-Party\obj\Debug\net6.0\Lab-08-SoftUni-Party.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-08-SoftUni-Party\obj\Debug\net6.0\Lab-08-SoftUni-Party.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-08-SoftUni-Party\obj\Debug\net6.0\refint\Lab-08-SoftUni-Party.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-08-SoftUni-Party\obj\Debug\net6.0\Lab-08-SoftUni-Party.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-08-SoftUni-Party\obj\Debug\net6.0\Lab-08-SoftUni-Party.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-08-SoftUni-Party\obj\Debug\net6.0\ref\Lab-08-SoftUni-Party.dll

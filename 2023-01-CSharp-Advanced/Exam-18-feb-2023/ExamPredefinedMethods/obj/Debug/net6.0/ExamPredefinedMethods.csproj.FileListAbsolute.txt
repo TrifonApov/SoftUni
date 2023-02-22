@@ -1,0 +1,12 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\ExamPredefinedMethods\bin\Debug\net6.0\ExamPredefinedMethods.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\ExamPredefinedMethods\bin\Debug\net6.0\ExamPredefinedMethods.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\ExamPredefinedMethods\bin\Debug\net6.0\ExamPredefinedMethods.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\ExamPredefinedMethods\obj\Debug\net6.0\ExamPredefinedMethods.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\ExamPredefinedMethods\obj\Debug\net6.0\ExamPredefinedMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\ExamPredefinedMethods\obj\Debug\net6.0\ExamPredefinedMethods.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\ExamPredefinedMethods\obj\Debug\net6.0\ExamPredefinedMethods.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\ExamPredefinedMethods\obj\Debug\net6.0\ExamPredefinedMethods.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\ExamPredefinedMethods\obj\Debug\net6.0\ExamPredefinedMethods.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\ExamPredefinedMethods\obj\Debug\net6.0\refint\ExamPredefinedMethods.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\ExamPredefinedMethods\obj\Debug\net6.0\ExamPredefinedMethods.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\Exams\Exam-18-feb-2023\ExamPredefinedMethods\obj\Debug\net6.0\ref\ExamPredefinedMethods.dll

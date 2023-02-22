@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-08-Bombs\bin\Debug\net6.0\Exercise-08-Bombs.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-08-Bombs\bin\Debug\net6.0\Exercise-08-Bombs.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-08-Bombs\bin\Debug\net6.0\Exercise-08-Bombs.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-08-Bombs\bin\Debug\net6.0\Exercise-08-Bombs.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-08-Bombs\bin\Debug\net6.0\Exercise-08-Bombs.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-08-Bombs\obj\Debug\net6.0\Exercise-08-Bombs.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-08-Bombs\obj\Debug\net6.0\Exercise-08-Bombs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-08-Bombs\obj\Debug\net6.0\Exercise-08-Bombs.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-08-Bombs\obj\Debug\net6.0\Exercise-08-Bombs.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-08-Bombs\obj\Debug\net6.0\Exercise-08-Bombs.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-08-Bombs\obj\Debug\net6.0\Exercise-08-Bombs.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-08-Bombs\obj\Debug\net6.0\refint\Exercise-08-Bombs.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-08-Bombs\obj\Debug\net6.0\Exercise-08-Bombs.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-08-Bombs\obj\Debug\net6.0\Exercise-08-Bombs.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-08-Bombs\obj\Debug\net6.0\ref\Exercise-08-Bombs.dll

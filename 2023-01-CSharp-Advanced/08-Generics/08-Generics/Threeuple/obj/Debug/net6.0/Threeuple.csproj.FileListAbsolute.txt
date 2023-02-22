@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Threeuple\bin\Debug\net6.0\Threeuple.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Threeuple\bin\Debug\net6.0\Threeuple.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Threeuple\bin\Debug\net6.0\Threeuple.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Threeuple\bin\Debug\net6.0\Threeuple.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Threeuple\bin\Debug\net6.0\Threeuple.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Threeuple\obj\Debug\net6.0\Threeuple.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Threeuple\obj\Debug\net6.0\Threeuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Threeuple\obj\Debug\net6.0\Threeuple.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Threeuple\obj\Debug\net6.0\Threeuple.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Threeuple\obj\Debug\net6.0\Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Threeuple\obj\Debug\net6.0\Threeuple.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Threeuple\obj\Debug\net6.0\refint\Threeuple.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Threeuple\obj\Debug\net6.0\Threeuple.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Threeuple\obj\Debug\net6.0\Threeuple.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\Threeuple\obj\Debug\net6.0\ref\Threeuple.dll

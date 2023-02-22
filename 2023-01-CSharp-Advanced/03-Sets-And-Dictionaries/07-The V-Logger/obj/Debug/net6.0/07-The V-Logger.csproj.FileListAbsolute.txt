@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\07-The V-Logger\bin\Debug\net6.0\07-The V-Logger.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\07-The V-Logger\bin\Debug\net6.0\07-The V-Logger.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\07-The V-Logger\bin\Debug\net6.0\07-The V-Logger.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\07-The V-Logger\bin\Debug\net6.0\07-The V-Logger.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\07-The V-Logger\bin\Debug\net6.0\07-The V-Logger.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\07-The V-Logger\obj\Debug\net6.0\07-The V-Logger.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\07-The V-Logger\obj\Debug\net6.0\07-The V-Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\07-The V-Logger\obj\Debug\net6.0\07-The V-Logger.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\07-The V-Logger\obj\Debug\net6.0\07-The V-Logger.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\07-The V-Logger\obj\Debug\net6.0\07-The V-Logger.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\07-The V-Logger\obj\Debug\net6.0\07-The V-Logger.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\07-The V-Logger\obj\Debug\net6.0\refint\07-The V-Logger.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\07-The V-Logger\obj\Debug\net6.0\07-The V-Logger.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\07-The V-Logger\obj\Debug\net6.0\07-The V-Logger.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\07-The V-Logger\obj\Debug\net6.0\ref\07-The V-Logger.dll

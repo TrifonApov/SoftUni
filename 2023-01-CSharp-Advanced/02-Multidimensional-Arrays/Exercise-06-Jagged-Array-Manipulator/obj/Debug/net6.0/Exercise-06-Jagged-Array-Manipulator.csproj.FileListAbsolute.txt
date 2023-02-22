@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-06-Jagged-Array-Manipulator\bin\Debug\net6.0\Exercise-06-Jagged-Array-Manipulator.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-06-Jagged-Array-Manipulator\bin\Debug\net6.0\Exercise-06-Jagged-Array-Manipulator.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-06-Jagged-Array-Manipulator\bin\Debug\net6.0\Exercise-06-Jagged-Array-Manipulator.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-06-Jagged-Array-Manipulator\bin\Debug\net6.0\Exercise-06-Jagged-Array-Manipulator.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-06-Jagged-Array-Manipulator\bin\Debug\net6.0\Exercise-06-Jagged-Array-Manipulator.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-06-Jagged-Array-Manipulator\obj\Debug\net6.0\Exercise-06-Jagged-Array-Manipulator.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-06-Jagged-Array-Manipulator\obj\Debug\net6.0\Exercise-06-Jagged-Array-Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-06-Jagged-Array-Manipulator\obj\Debug\net6.0\Exercise-06-Jagged-Array-Manipulator.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-06-Jagged-Array-Manipulator\obj\Debug\net6.0\Exercise-06-Jagged-Array-Manipulator.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-06-Jagged-Array-Manipulator\obj\Debug\net6.0\Exercise-06-Jagged-Array-Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-06-Jagged-Array-Manipulator\obj\Debug\net6.0\Exercise-06-Jagged-Array-Manipulator.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-06-Jagged-Array-Manipulator\obj\Debug\net6.0\refint\Exercise-06-Jagged-Array-Manipulator.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-06-Jagged-Array-Manipulator\obj\Debug\net6.0\Exercise-06-Jagged-Array-Manipulator.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-06-Jagged-Array-Manipulator\obj\Debug\net6.0\Exercise-06-Jagged-Array-Manipulator.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-06-Jagged-Array-Manipulator\obj\Debug\net6.0\ref\Exercise-06-Jagged-Array-Manipulator.dll

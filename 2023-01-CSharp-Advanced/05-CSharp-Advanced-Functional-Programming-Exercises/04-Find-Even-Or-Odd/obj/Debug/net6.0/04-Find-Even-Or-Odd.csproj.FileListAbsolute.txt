@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\04-Find-Even-Or-Odd\bin\Debug\net6.0\04-Find-Even-Or-Odd.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\04-Find-Even-Or-Odd\bin\Debug\net6.0\04-Find-Even-Or-Odd.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\04-Find-Even-Or-Odd\bin\Debug\net6.0\04-Find-Even-Or-Odd.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\04-Find-Even-Or-Odd\bin\Debug\net6.0\04-Find-Even-Or-Odd.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\04-Find-Even-Or-Odd\bin\Debug\net6.0\04-Find-Even-Or-Odd.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\04-Find-Even-Or-Odd\obj\Debug\net6.0\04-Find-Even-Or-Odd.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\04-Find-Even-Or-Odd\obj\Debug\net6.0\04-Find-Even-Or-Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\04-Find-Even-Or-Odd\obj\Debug\net6.0\04-Find-Even-Or-Odd.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\04-Find-Even-Or-Odd\obj\Debug\net6.0\04-Find-Even-Or-Odd.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\04-Find-Even-Or-Odd\obj\Debug\net6.0\04-Find-Even-Or-Odd.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\04-Find-Even-Or-Odd\obj\Debug\net6.0\04-Find-Even-Or-Odd.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\04-Find-Even-Or-Odd\obj\Debug\net6.0\refint\04-Find-Even-Or-Odd.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\04-Find-Even-Or-Odd\obj\Debug\net6.0\04-Find-Even-Or-Odd.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\04-Find-Even-Or-Odd\obj\Debug\net6.0\04-Find-Even-Or-Odd.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Exercises\04-Find-Even-Or-Odd\obj\Debug\net6.0\ref\04-Find-Even-Or-Odd.dll

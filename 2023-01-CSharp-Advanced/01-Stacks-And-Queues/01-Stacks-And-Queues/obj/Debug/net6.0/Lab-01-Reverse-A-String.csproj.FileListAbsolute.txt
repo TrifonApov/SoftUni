@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\01-Stacks-And-Queues\bin\Debug\net6.0\Lab-01-Reverse-A-String.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\01-Stacks-And-Queues\bin\Debug\net6.0\Lab-01-Reverse-A-String.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\01-Stacks-And-Queues\bin\Debug\net6.0\Lab-01-Reverse-A-String.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\01-Stacks-And-Queues\bin\Debug\net6.0\Lab-01-Reverse-A-String.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\01-Stacks-And-Queues\bin\Debug\net6.0\Lab-01-Reverse-A-String.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\01-Stacks-And-Queues\obj\Debug\net6.0\Lab-01-Reverse-A-String.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\01-Stacks-And-Queues\obj\Debug\net6.0\Lab-01-Reverse-A-String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\01-Stacks-And-Queues\obj\Debug\net6.0\Lab-01-Reverse-A-String.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\01-Stacks-And-Queues\obj\Debug\net6.0\Lab-01-Reverse-A-String.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\01-Stacks-And-Queues\obj\Debug\net6.0\Lab-01-Reverse-A-String.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\01-Stacks-And-Queues\obj\Debug\net6.0\Lab-01-Reverse-A-String.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\01-Stacks-And-Queues\obj\Debug\net6.0\refint\Lab-01-Reverse-A-String.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\01-Stacks-And-Queues\obj\Debug\net6.0\Lab-01-Reverse-A-String.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\01-Stacks-And-Queues\obj\Debug\net6.0\Lab-01-Reverse-A-String.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\01-Stacks-And-Queues\obj\Debug\net6.0\ref\Lab-01-Reverse-A-String.dll

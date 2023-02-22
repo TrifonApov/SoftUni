@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\03-Oldest-Family-Member\bin\Debug\net6.0\03-Oldest-Family-Member.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\03-Oldest-Family-Member\bin\Debug\net6.0\03-Oldest-Family-Member.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\03-Oldest-Family-Member\bin\Debug\net6.0\03-Oldest-Family-Member.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\03-Oldest-Family-Member\bin\Debug\net6.0\03-Oldest-Family-Member.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\03-Oldest-Family-Member\bin\Debug\net6.0\03-Oldest-Family-Member.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\03-Oldest-Family-Member\obj\Debug\net6.0\03-Oldest-Family-Member.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\03-Oldest-Family-Member\obj\Debug\net6.0\03-Oldest-Family-Member.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\03-Oldest-Family-Member\obj\Debug\net6.0\03-Oldest-Family-Member.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\03-Oldest-Family-Member\obj\Debug\net6.0\03-Oldest-Family-Member.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\03-Oldest-Family-Member\obj\Debug\net6.0\03-Oldest-Family-Member.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\03-Oldest-Family-Member\obj\Debug\net6.0\03-Oldest-Family-Member.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\03-Oldest-Family-Member\obj\Debug\net6.0\refint\03-Oldest-Family-Member.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\03-Oldest-Family-Member\obj\Debug\net6.0\03-Oldest-Family-Member.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\03-Oldest-Family-Member\obj\Debug\net6.0\03-Oldest-Family-Member.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\03-Oldest-Family-Member\obj\Debug\net6.0\ref\03-Oldest-Family-Member.dll

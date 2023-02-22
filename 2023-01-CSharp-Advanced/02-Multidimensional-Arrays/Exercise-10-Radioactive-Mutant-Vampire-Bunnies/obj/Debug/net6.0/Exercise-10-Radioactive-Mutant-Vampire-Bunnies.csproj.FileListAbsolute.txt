@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-10-Radioactive-Mutant-Vampire-Bunnies\bin\Debug\net6.0\Exercise-10-Radioactive-Mutant-Vampire-Bunnies.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-10-Radioactive-Mutant-Vampire-Bunnies\bin\Debug\net6.0\Exercise-10-Radioactive-Mutant-Vampire-Bunnies.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-10-Radioactive-Mutant-Vampire-Bunnies\bin\Debug\net6.0\Exercise-10-Radioactive-Mutant-Vampire-Bunnies.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-10-Radioactive-Mutant-Vampire-Bunnies\bin\Debug\net6.0\Exercise-10-Radioactive-Mutant-Vampire-Bunnies.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-10-Radioactive-Mutant-Vampire-Bunnies\bin\Debug\net6.0\Exercise-10-Radioactive-Mutant-Vampire-Bunnies.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-10-Radioactive-Mutant-Vampire-Bunnies\obj\Debug\net6.0\Exercise-10-Radioactive-Mutant-Vampire-Bunnies.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-10-Radioactive-Mutant-Vampire-Bunnies\obj\Debug\net6.0\Exercise-10-Radioactive-Mutant-Vampire-Bunnies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-10-Radioactive-Mutant-Vampire-Bunnies\obj\Debug\net6.0\Exercise-10-Radioactive-Mutant-Vampire-Bunnies.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-10-Radioactive-Mutant-Vampire-Bunnies\obj\Debug\net6.0\Exercise-10-Radioactive-Mutant-Vampire-Bunnies.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-10-Radioactive-Mutant-Vampire-Bunnies\obj\Debug\net6.0\Exercise-10-Radioactive-Mutant-Vampire-Bunnies.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-10-Radioactive-Mutant-Vampire-Bunnies\obj\Debug\net6.0\Exercise-10-Radioactive-Mutant-Vampire-Bunnies.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-10-Radioactive-Mutant-Vampire-Bunnies\obj\Debug\net6.0\refint\Exercise-10-Radioactive-Mutant-Vampire-Bunnies.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-10-Radioactive-Mutant-Vampire-Bunnies\obj\Debug\net6.0\Exercise-10-Radioactive-Mutant-Vampire-Bunnies.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-10-Radioactive-Mutant-Vampire-Bunnies\obj\Debug\net6.0\Exercise-10-Radioactive-Mutant-Vampire-Bunnies.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-10-Radioactive-Mutant-Vampire-Bunnies\obj\Debug\net6.0\ref\Exercise-10-Radioactive-Mutant-Vampire-Bunnies.dll

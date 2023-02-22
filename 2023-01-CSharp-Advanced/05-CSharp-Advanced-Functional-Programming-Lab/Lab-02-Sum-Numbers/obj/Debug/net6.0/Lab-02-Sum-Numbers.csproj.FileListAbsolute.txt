@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Lab\Lab-02-Sum-Numbers\bin\Debug\net6.0\Lab-02-Sum-Numbers.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Lab\Lab-02-Sum-Numbers\bin\Debug\net6.0\Lab-02-Sum-Numbers.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Lab\Lab-02-Sum-Numbers\bin\Debug\net6.0\Lab-02-Sum-Numbers.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Lab\Lab-02-Sum-Numbers\bin\Debug\net6.0\Lab-02-Sum-Numbers.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Lab\Lab-02-Sum-Numbers\bin\Debug\net6.0\Lab-02-Sum-Numbers.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Lab\Lab-02-Sum-Numbers\obj\Debug\net6.0\Lab-02-Sum-Numbers.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Lab\Lab-02-Sum-Numbers\obj\Debug\net6.0\Lab-02-Sum-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Lab\Lab-02-Sum-Numbers\obj\Debug\net6.0\Lab-02-Sum-Numbers.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Lab\Lab-02-Sum-Numbers\obj\Debug\net6.0\Lab-02-Sum-Numbers.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Lab\Lab-02-Sum-Numbers\obj\Debug\net6.0\Lab-02-Sum-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Lab\Lab-02-Sum-Numbers\obj\Debug\net6.0\Lab-02-Sum-Numbers.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Lab\Lab-02-Sum-Numbers\obj\Debug\net6.0\refint\Lab-02-Sum-Numbers.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Lab\Lab-02-Sum-Numbers\obj\Debug\net6.0\Lab-02-Sum-Numbers.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Lab\Lab-02-Sum-Numbers\obj\Debug\net6.0\Lab-02-Sum-Numbers.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\05-CSharp-Advanced-Functional-Programming-Lab\Lab-02-Sum-Numbers\obj\Debug\net6.0\ref\Lab-02-Sum-Numbers.dll

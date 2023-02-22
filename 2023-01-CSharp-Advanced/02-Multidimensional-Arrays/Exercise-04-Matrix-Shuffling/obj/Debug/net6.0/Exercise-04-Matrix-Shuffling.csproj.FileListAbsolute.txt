@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-04-Matrix-Shuffling\bin\Debug\net6.0\Exercise-04-Matrix-Shuffling.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-04-Matrix-Shuffling\bin\Debug\net6.0\Exercise-04-Matrix-Shuffling.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-04-Matrix-Shuffling\bin\Debug\net6.0\Exercise-04-Matrix-Shuffling.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-04-Matrix-Shuffling\bin\Debug\net6.0\Exercise-04-Matrix-Shuffling.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-04-Matrix-Shuffling\bin\Debug\net6.0\Exercise-04-Matrix-Shuffling.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-04-Matrix-Shuffling\obj\Debug\net6.0\Exercise-04-Matrix-Shuffling.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-04-Matrix-Shuffling\obj\Debug\net6.0\Exercise-04-Matrix-Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-04-Matrix-Shuffling\obj\Debug\net6.0\Exercise-04-Matrix-Shuffling.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-04-Matrix-Shuffling\obj\Debug\net6.0\Exercise-04-Matrix-Shuffling.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-04-Matrix-Shuffling\obj\Debug\net6.0\Exercise-04-Matrix-Shuffling.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-04-Matrix-Shuffling\obj\Debug\net6.0\Exercise-04-Matrix-Shuffling.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-04-Matrix-Shuffling\obj\Debug\net6.0\refint\Exercise-04-Matrix-Shuffling.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-04-Matrix-Shuffling\obj\Debug\net6.0\Exercise-04-Matrix-Shuffling.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-04-Matrix-Shuffling\obj\Debug\net6.0\Exercise-04-Matrix-Shuffling.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-04-Matrix-Shuffling\obj\Debug\net6.0\ref\Exercise-04-Matrix-Shuffling.dll

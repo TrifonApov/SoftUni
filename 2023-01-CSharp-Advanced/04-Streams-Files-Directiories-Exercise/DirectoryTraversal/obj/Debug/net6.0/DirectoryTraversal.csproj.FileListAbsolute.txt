@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\DirectoryTraversal\bin\Debug\net6.0\DirectoryTraversal.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\DirectoryTraversal\bin\Debug\net6.0\DirectoryTraversal.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\DirectoryTraversal\bin\Debug\net6.0\DirectoryTraversal.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\DirectoryTraversal\bin\Debug\net6.0\DirectoryTraversal.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\DirectoryTraversal\bin\Debug\net6.0\DirectoryTraversal.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\DirectoryTraversal\obj\Debug\net6.0\refint\DirectoryTraversal.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\DirectoryTraversal\obj\Debug\net6.0\ref\DirectoryTraversal.dll

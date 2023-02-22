@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-01-Sum-Matrix-Elements\bin\Debug\net6.0\Lab-01-Sum-Matrix-Elements.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-01-Sum-Matrix-Elements\bin\Debug\net6.0\Lab-01-Sum-Matrix-Elements.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-01-Sum-Matrix-Elements\bin\Debug\net6.0\Lab-01-Sum-Matrix-Elements.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-01-Sum-Matrix-Elements\bin\Debug\net6.0\Lab-01-Sum-Matrix-Elements.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-01-Sum-Matrix-Elements\bin\Debug\net6.0\Lab-01-Sum-Matrix-Elements.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-01-Sum-Matrix-Elements\obj\Debug\net6.0\Lab-01-Sum-Matrix-Elements.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-01-Sum-Matrix-Elements\obj\Debug\net6.0\Lab-01-Sum-Matrix-Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-01-Sum-Matrix-Elements\obj\Debug\net6.0\Lab-01-Sum-Matrix-Elements.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-01-Sum-Matrix-Elements\obj\Debug\net6.0\Lab-01-Sum-Matrix-Elements.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-01-Sum-Matrix-Elements\obj\Debug\net6.0\Lab-01-Sum-Matrix-Elements.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-01-Sum-Matrix-Elements\obj\Debug\net6.0\Lab-01-Sum-Matrix-Elements.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-01-Sum-Matrix-Elements\obj\Debug\net6.0\refint\Lab-01-Sum-Matrix-Elements.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-01-Sum-Matrix-Elements\obj\Debug\net6.0\Lab-01-Sum-Matrix-Elements.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-01-Sum-Matrix-Elements\obj\Debug\net6.0\Lab-01-Sum-Matrix-Elements.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-01-Sum-Matrix-Elements\obj\Debug\net6.0\ref\Lab-01-Sum-Matrix-Elements.dll

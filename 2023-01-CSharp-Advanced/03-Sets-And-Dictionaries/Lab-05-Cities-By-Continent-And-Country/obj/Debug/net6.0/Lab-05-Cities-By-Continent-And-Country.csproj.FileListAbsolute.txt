@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-05-Cities-By-Continent-And-Country\bin\Debug\net6.0\Lab-05-Cities-By-Continent-And-Country.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-05-Cities-By-Continent-And-Country\bin\Debug\net6.0\Lab-05-Cities-By-Continent-And-Country.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-05-Cities-By-Continent-And-Country\bin\Debug\net6.0\Lab-05-Cities-By-Continent-And-Country.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-05-Cities-By-Continent-And-Country\bin\Debug\net6.0\Lab-05-Cities-By-Continent-And-Country.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-05-Cities-By-Continent-And-Country\bin\Debug\net6.0\Lab-05-Cities-By-Continent-And-Country.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-05-Cities-By-Continent-And-Country\obj\Debug\net6.0\Lab-05-Cities-By-Continent-And-Country.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-05-Cities-By-Continent-And-Country\obj\Debug\net6.0\Lab-05-Cities-By-Continent-And-Country.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-05-Cities-By-Continent-And-Country\obj\Debug\net6.0\Lab-05-Cities-By-Continent-And-Country.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-05-Cities-By-Continent-And-Country\obj\Debug\net6.0\Lab-05-Cities-By-Continent-And-Country.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-05-Cities-By-Continent-And-Country\obj\Debug\net6.0\Lab-05-Cities-By-Continent-And-Country.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-05-Cities-By-Continent-And-Country\obj\Debug\net6.0\Lab-05-Cities-By-Continent-And-Country.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-05-Cities-By-Continent-And-Country\obj\Debug\net6.0\refint\Lab-05-Cities-By-Continent-And-Country.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-05-Cities-By-Continent-And-Country\obj\Debug\net6.0\Lab-05-Cities-By-Continent-And-Country.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-05-Cities-By-Continent-And-Country\obj\Debug\net6.0\Lab-05-Cities-By-Continent-And-Country.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-05-Cities-By-Continent-And-Country\obj\Debug\net6.0\ref\Lab-05-Cities-By-Continent-And-Country.dll

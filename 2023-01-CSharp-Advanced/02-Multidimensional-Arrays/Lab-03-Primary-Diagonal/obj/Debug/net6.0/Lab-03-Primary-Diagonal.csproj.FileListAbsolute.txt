@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-03-Primary-Diagonal\bin\Debug\net6.0\Lab-03-Primary-Diagonal.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-03-Primary-Diagonal\bin\Debug\net6.0\Lab-03-Primary-Diagonal.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-03-Primary-Diagonal\bin\Debug\net6.0\Lab-03-Primary-Diagonal.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-03-Primary-Diagonal\bin\Debug\net6.0\Lab-03-Primary-Diagonal.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-03-Primary-Diagonal\bin\Debug\net6.0\Lab-03-Primary-Diagonal.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-03-Primary-Diagonal\obj\Debug\net6.0\Lab-03-Primary-Diagonal.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-03-Primary-Diagonal\obj\Debug\net6.0\Lab-03-Primary-Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-03-Primary-Diagonal\obj\Debug\net6.0\Lab-03-Primary-Diagonal.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-03-Primary-Diagonal\obj\Debug\net6.0\Lab-03-Primary-Diagonal.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-03-Primary-Diagonal\obj\Debug\net6.0\Lab-03-Primary-Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-03-Primary-Diagonal\obj\Debug\net6.0\Lab-03-Primary-Diagonal.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-03-Primary-Diagonal\obj\Debug\net6.0\refint\Lab-03-Primary-Diagonal.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-03-Primary-Diagonal\obj\Debug\net6.0\Lab-03-Primary-Diagonal.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-03-Primary-Diagonal\obj\Debug\net6.0\Lab-03-Primary-Diagonal.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-03-Primary-Diagonal\obj\Debug\net6.0\ref\Lab-03-Primary-Diagonal.dll

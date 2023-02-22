@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\CopyBinaryFile\obj\Debug\net6.0\refint\CopyBinaryFile.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\CopyBinaryFile\obj\Debug\net6.0\ref\CopyBinaryFile.dll

@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\09-SoftUni-Exam-Results\bin\Debug\net6.0\09-SoftUni-Exam-Results.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\09-SoftUni-Exam-Results\bin\Debug\net6.0\09-SoftUni-Exam-Results.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\09-SoftUni-Exam-Results\bin\Debug\net6.0\09-SoftUni-Exam-Results.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\09-SoftUni-Exam-Results\bin\Debug\net6.0\09-SoftUni-Exam-Results.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\09-SoftUni-Exam-Results\bin\Debug\net6.0\09-SoftUni-Exam-Results.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\09-SoftUni-Exam-Results\obj\Debug\net6.0\09-SoftUni-Exam-Results.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\09-SoftUni-Exam-Results\obj\Debug\net6.0\09-SoftUni-Exam-Results.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\09-SoftUni-Exam-Results\obj\Debug\net6.0\09-SoftUni-Exam-Results.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\09-SoftUni-Exam-Results\obj\Debug\net6.0\09-SoftUni-Exam-Results.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\09-SoftUni-Exam-Results\obj\Debug\net6.0\09-SoftUni-Exam-Results.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\09-SoftUni-Exam-Results\obj\Debug\net6.0\09-SoftUni-Exam-Results.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\09-SoftUni-Exam-Results\obj\Debug\net6.0\refint\09-SoftUni-Exam-Results.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\09-SoftUni-Exam-Results\obj\Debug\net6.0\09-SoftUni-Exam-Results.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\09-SoftUni-Exam-Results\obj\Debug\net6.0\09-SoftUni-Exam-Results.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\09-SoftUni-Exam-Results\obj\Debug\net6.0\ref\09-SoftUni-Exam-Results.dll

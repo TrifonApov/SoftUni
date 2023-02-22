@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\ZipAndExtract\bin\Debug\net6.0\ZipAndExtract.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\ZipAndExtract\bin\Debug\net6.0\ZipAndExtract.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\ZipAndExtract\bin\Debug\net6.0\ZipAndExtract.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\ZipAndExtract\bin\Debug\net6.0\ZipAndExtract.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\ZipAndExtract\bin\Debug\net6.0\ZipAndExtract.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\ZipAndExtract\obj\Debug\net6.0\refint\ZipAndExtract.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\ZipAndExtract\obj\Debug\net6.0\ZipAndExtract.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories-Exercise\ZipAndExtract\obj\Debug\net6.0\ref\ZipAndExtract.dll

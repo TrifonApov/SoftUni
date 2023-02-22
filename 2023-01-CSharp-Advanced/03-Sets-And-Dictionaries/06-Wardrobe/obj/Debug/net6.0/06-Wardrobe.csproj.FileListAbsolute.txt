@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\06-Wardrobe\bin\Debug\net6.0\06-Wardrobe.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\06-Wardrobe\bin\Debug\net6.0\06-Wardrobe.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\06-Wardrobe\bin\Debug\net6.0\06-Wardrobe.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\06-Wardrobe\bin\Debug\net6.0\06-Wardrobe.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\06-Wardrobe\bin\Debug\net6.0\06-Wardrobe.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\06-Wardrobe\obj\Debug\net6.0\06-Wardrobe.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\06-Wardrobe\obj\Debug\net6.0\06-Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\06-Wardrobe\obj\Debug\net6.0\06-Wardrobe.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\06-Wardrobe\obj\Debug\net6.0\06-Wardrobe.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\06-Wardrobe\obj\Debug\net6.0\06-Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\06-Wardrobe\obj\Debug\net6.0\06-Wardrobe.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\06-Wardrobe\obj\Debug\net6.0\refint\06-Wardrobe.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\06-Wardrobe\obj\Debug\net6.0\06-Wardrobe.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\06-Wardrobe\obj\Debug\net6.0\06-Wardrobe.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\06-Wardrobe\obj\Debug\net6.0\ref\06-Wardrobe.dll

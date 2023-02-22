@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\FolderSize\bin\Debug\net6.0\FolderSize.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\FolderSize\bin\Debug\net6.0\FolderSize.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\FolderSize\bin\Debug\net6.0\FolderSize.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\FolderSize\bin\Debug\net6.0\FolderSize.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\FolderSize\bin\Debug\net6.0\FolderSize.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\FolderSize\obj\Debug\net6.0\FolderSize.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\FolderSize\obj\Debug\net6.0\FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\FolderSize\obj\Debug\net6.0\FolderSize.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\FolderSize\obj\Debug\net6.0\FolderSize.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\FolderSize\obj\Debug\net6.0\FolderSize.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\FolderSize\obj\Debug\net6.0\FolderSize.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\FolderSize\obj\Debug\net6.0\refint\FolderSize.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\FolderSize\obj\Debug\net6.0\FolderSize.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\FolderSize\obj\Debug\net6.0\FolderSize.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\FolderSize\obj\Debug\net6.0\ref\FolderSize.dll

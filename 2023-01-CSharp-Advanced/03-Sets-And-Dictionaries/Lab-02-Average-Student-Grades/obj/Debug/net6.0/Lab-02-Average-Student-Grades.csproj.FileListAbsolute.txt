@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-02-Average-Student-Grades\bin\Debug\net6.0\Lab-02-Average-Student-Grades.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-02-Average-Student-Grades\bin\Debug\net6.0\Lab-02-Average-Student-Grades.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-02-Average-Student-Grades\bin\Debug\net6.0\Lab-02-Average-Student-Grades.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-02-Average-Student-Grades\bin\Debug\net6.0\Lab-02-Average-Student-Grades.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-02-Average-Student-Grades\bin\Debug\net6.0\Lab-02-Average-Student-Grades.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-02-Average-Student-Grades\obj\Debug\net6.0\Lab-02-Average-Student-Grades.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-02-Average-Student-Grades\obj\Debug\net6.0\Lab-02-Average-Student-Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-02-Average-Student-Grades\obj\Debug\net6.0\Lab-02-Average-Student-Grades.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-02-Average-Student-Grades\obj\Debug\net6.0\Lab-02-Average-Student-Grades.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-02-Average-Student-Grades\obj\Debug\net6.0\Lab-02-Average-Student-Grades.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-02-Average-Student-Grades\obj\Debug\net6.0\Lab-02-Average-Student-Grades.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-02-Average-Student-Grades\obj\Debug\net6.0\refint\Lab-02-Average-Student-Grades.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-02-Average-Student-Grades\obj\Debug\net6.0\Lab-02-Average-Student-Grades.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-02-Average-Student-Grades\obj\Debug\net6.0\Lab-02-Average-Student-Grades.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-02-Average-Student-Grades\obj\Debug\net6.0\ref\Lab-02-Average-Student-Grades.dll

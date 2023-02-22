@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lab-07-Pascal-Triangle/1.0.0": {
+        "runtime": {
+          "Lab-07-Pascal-Triangle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab-07-Pascal-Triangle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

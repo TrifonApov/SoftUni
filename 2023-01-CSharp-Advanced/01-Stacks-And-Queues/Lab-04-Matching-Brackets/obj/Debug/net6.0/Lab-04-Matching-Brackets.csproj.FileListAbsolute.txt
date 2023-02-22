@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-04-Matching-Brackets\bin\Debug\net6.0\Lab-04-Matching-Brackets.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-04-Matching-Brackets\bin\Debug\net6.0\Lab-04-Matching-Brackets.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-04-Matching-Brackets\bin\Debug\net6.0\Lab-04-Matching-Brackets.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-04-Matching-Brackets\bin\Debug\net6.0\Lab-04-Matching-Brackets.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-04-Matching-Brackets\bin\Debug\net6.0\Lab-04-Matching-Brackets.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-04-Matching-Brackets\obj\Debug\net6.0\Lab-04-Matching-Brackets.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-04-Matching-Brackets\obj\Debug\net6.0\Lab-04-Matching-Brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-04-Matching-Brackets\obj\Debug\net6.0\Lab-04-Matching-Brackets.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-04-Matching-Brackets\obj\Debug\net6.0\Lab-04-Matching-Brackets.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-04-Matching-Brackets\obj\Debug\net6.0\Lab-04-Matching-Brackets.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-04-Matching-Brackets\obj\Debug\net6.0\Lab-04-Matching-Brackets.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-04-Matching-Brackets\obj\Debug\net6.0\refint\Lab-04-Matching-Brackets.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-04-Matching-Brackets\obj\Debug\net6.0\Lab-04-Matching-Brackets.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-04-Matching-Brackets\obj\Debug\net6.0\Lab-04-Matching-Brackets.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-04-Matching-Brackets\obj\Debug\net6.0\ref\Lab-04-Matching-Brackets.dll

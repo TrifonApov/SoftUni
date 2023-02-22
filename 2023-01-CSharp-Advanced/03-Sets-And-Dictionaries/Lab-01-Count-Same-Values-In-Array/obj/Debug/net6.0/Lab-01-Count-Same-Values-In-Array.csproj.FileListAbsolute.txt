@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-01-Count-Same-Values-In-Array\bin\Debug\net6.0\Lab-01-Count-Same-Values-In-Array.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-01-Count-Same-Values-In-Array\bin\Debug\net6.0\Lab-01-Count-Same-Values-In-Array.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-01-Count-Same-Values-In-Array\bin\Debug\net6.0\Lab-01-Count-Same-Values-In-Array.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-01-Count-Same-Values-In-Array\bin\Debug\net6.0\Lab-01-Count-Same-Values-In-Array.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-01-Count-Same-Values-In-Array\bin\Debug\net6.0\Lab-01-Count-Same-Values-In-Array.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-01-Count-Same-Values-In-Array\obj\Debug\net6.0\Lab-01-Count-Same-Values-In-Array.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-01-Count-Same-Values-In-Array\obj\Debug\net6.0\Lab-01-Count-Same-Values-In-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-01-Count-Same-Values-In-Array\obj\Debug\net6.0\Lab-01-Count-Same-Values-In-Array.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-01-Count-Same-Values-In-Array\obj\Debug\net6.0\Lab-01-Count-Same-Values-In-Array.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-01-Count-Same-Values-In-Array\obj\Debug\net6.0\Lab-01-Count-Same-Values-In-Array.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-01-Count-Same-Values-In-Array\obj\Debug\net6.0\Lab-01-Count-Same-Values-In-Array.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-01-Count-Same-Values-In-Array\obj\Debug\net6.0\refint\Lab-01-Count-Same-Values-In-Array.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-01-Count-Same-Values-In-Array\obj\Debug\net6.0\Lab-01-Count-Same-Values-In-Array.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-01-Count-Same-Values-In-Array\obj\Debug\net6.0\Lab-01-Count-Same-Values-In-Array.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-01-Count-Same-Values-In-Array\obj\Debug\net6.0\ref\Lab-01-Count-Same-Values-In-Array.dll

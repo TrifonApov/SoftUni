@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-03-Maximal-Sum\bin\Debug\net6.0\Exercise-03-Maximal-Sum.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-03-Maximal-Sum\bin\Debug\net6.0\Exercise-03-Maximal-Sum.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-03-Maximal-Sum\bin\Debug\net6.0\Exercise-03-Maximal-Sum.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-03-Maximal-Sum\bin\Debug\net6.0\Exercise-03-Maximal-Sum.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-03-Maximal-Sum\bin\Debug\net6.0\Exercise-03-Maximal-Sum.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-03-Maximal-Sum\obj\Debug\net6.0\Exercise-03-Maximal-Sum.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-03-Maximal-Sum\obj\Debug\net6.0\Exercise-03-Maximal-Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-03-Maximal-Sum\obj\Debug\net6.0\Exercise-03-Maximal-Sum.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-03-Maximal-Sum\obj\Debug\net6.0\Exercise-03-Maximal-Sum.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-03-Maximal-Sum\obj\Debug\net6.0\Exercise-03-Maximal-Sum.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-03-Maximal-Sum\obj\Debug\net6.0\Exercise-03-Maximal-Sum.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-03-Maximal-Sum\obj\Debug\net6.0\refint\Exercise-03-Maximal-Sum.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-03-Maximal-Sum\obj\Debug\net6.0\Exercise-03-Maximal-Sum.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-03-Maximal-Sum\obj\Debug\net6.0\Exercise-03-Maximal-Sum.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-03-Maximal-Sum\obj\Debug\net6.0\ref\Exercise-03-Maximal-Sum.dll

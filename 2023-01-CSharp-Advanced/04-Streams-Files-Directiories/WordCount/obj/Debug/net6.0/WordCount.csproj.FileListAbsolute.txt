@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\WordCount\bin\Debug\net6.0\WordCount.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\WordCount\bin\Debug\net6.0\WordCount.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\WordCount\bin\Debug\net6.0\WordCount.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\WordCount\bin\Debug\net6.0\WordCount.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\WordCount\bin\Debug\net6.0\WordCount.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\WordCount\obj\Debug\net6.0\WordCount.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\WordCount\obj\Debug\net6.0\WordCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\WordCount\obj\Debug\net6.0\WordCount.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\WordCount\obj\Debug\net6.0\WordCount.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\WordCount\obj\Debug\net6.0\WordCount.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\WordCount\obj\Debug\net6.0\WordCount.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\WordCount\obj\Debug\net6.0\refint\WordCount.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\WordCount\obj\Debug\net6.0\WordCount.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\WordCount\obj\Debug\net6.0\WordCount.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\04-Streams-Files-Directiories\WordCount\obj\Debug\net6.0\ref\WordCount.dll

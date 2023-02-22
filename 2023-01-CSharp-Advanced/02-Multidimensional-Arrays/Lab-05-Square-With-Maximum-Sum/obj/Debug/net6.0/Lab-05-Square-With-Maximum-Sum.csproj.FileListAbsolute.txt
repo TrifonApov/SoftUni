@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-05-Square-With-Maximum-Sum\bin\Debug\net6.0\Lab-05-Square-With-Maximum-Sum.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-05-Square-With-Maximum-Sum\bin\Debug\net6.0\Lab-05-Square-With-Maximum-Sum.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-05-Square-With-Maximum-Sum\bin\Debug\net6.0\Lab-05-Square-With-Maximum-Sum.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-05-Square-With-Maximum-Sum\bin\Debug\net6.0\Lab-05-Square-With-Maximum-Sum.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-05-Square-With-Maximum-Sum\bin\Debug\net6.0\Lab-05-Square-With-Maximum-Sum.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-05-Square-With-Maximum-Sum\obj\Debug\net6.0\Lab-05-Square-With-Maximum-Sum.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-05-Square-With-Maximum-Sum\obj\Debug\net6.0\Lab-05-Square-With-Maximum-Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-05-Square-With-Maximum-Sum\obj\Debug\net6.0\Lab-05-Square-With-Maximum-Sum.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-05-Square-With-Maximum-Sum\obj\Debug\net6.0\Lab-05-Square-With-Maximum-Sum.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-05-Square-With-Maximum-Sum\obj\Debug\net6.0\Lab-05-Square-With-Maximum-Sum.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-05-Square-With-Maximum-Sum\obj\Debug\net6.0\Lab-05-Square-With-Maximum-Sum.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-05-Square-With-Maximum-Sum\obj\Debug\net6.0\refint\Lab-05-Square-With-Maximum-Sum.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-05-Square-With-Maximum-Sum\obj\Debug\net6.0\Lab-05-Square-With-Maximum-Sum.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-05-Square-With-Maximum-Sum\obj\Debug\net6.0\Lab-05-Square-With-Maximum-Sum.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-05-Square-With-Maximum-Sum\obj\Debug\net6.0\ref\Lab-05-Square-With-Maximum-Sum.dll

@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-07-Parking-Lot\bin\Debug\net6.0\Lab-07-Parking-Lot.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-07-Parking-Lot\bin\Debug\net6.0\Lab-07-Parking-Lot.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-07-Parking-Lot\bin\Debug\net6.0\Lab-07-Parking-Lot.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-07-Parking-Lot\bin\Debug\net6.0\Lab-07-Parking-Lot.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-07-Parking-Lot\bin\Debug\net6.0\Lab-07-Parking-Lot.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-07-Parking-Lot\obj\Debug\net6.0\Lab-07-Parking-Lot.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-07-Parking-Lot\obj\Debug\net6.0\Lab-07-Parking-Lot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-07-Parking-Lot\obj\Debug\net6.0\Lab-07-Parking-Lot.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-07-Parking-Lot\obj\Debug\net6.0\Lab-07-Parking-Lot.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-07-Parking-Lot\obj\Debug\net6.0\Lab-07-Parking-Lot.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-07-Parking-Lot\obj\Debug\net6.0\Lab-07-Parking-Lot.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-07-Parking-Lot\obj\Debug\net6.0\refint\Lab-07-Parking-Lot.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-07-Parking-Lot\obj\Debug\net6.0\Lab-07-Parking-Lot.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-07-Parking-Lot\obj\Debug\net6.0\Lab-07-Parking-Lot.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-07-Parking-Lot\obj\Debug\net6.0\ref\Lab-07-Parking-Lot.dll

@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-06-Supermarket\bin\Debug\net6.0\Lab-06-Supermarket.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-06-Supermarket\bin\Debug\net6.0\Lab-06-Supermarket.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-06-Supermarket\bin\Debug\net6.0\Lab-06-Supermarket.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-06-Supermarket\bin\Debug\net6.0\Lab-06-Supermarket.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-06-Supermarket\bin\Debug\net6.0\Lab-06-Supermarket.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-06-Supermarket\obj\Debug\net6.0\Lab-06-Supermarket.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-06-Supermarket\obj\Debug\net6.0\Lab-06-Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-06-Supermarket\obj\Debug\net6.0\Lab-06-Supermarket.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-06-Supermarket\obj\Debug\net6.0\Lab-06-Supermarket.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-06-Supermarket\obj\Debug\net6.0\Lab-06-Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-06-Supermarket\obj\Debug\net6.0\Lab-06-Supermarket.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-06-Supermarket\obj\Debug\net6.0\refint\Lab-06-Supermarket.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-06-Supermarket\obj\Debug\net6.0\Lab-06-Supermarket.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-06-Supermarket\obj\Debug\net6.0\Lab-06-Supermarket.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\01-Stacks-And-Queues\Lab-06-Supermarket\obj\Debug\net6.0\ref\Lab-06-Supermarket.dll

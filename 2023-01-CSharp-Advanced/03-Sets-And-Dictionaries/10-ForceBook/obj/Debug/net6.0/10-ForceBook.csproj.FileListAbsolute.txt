@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\10-ForceBook\bin\Debug\net6.0\10-ForceBook.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\10-ForceBook\bin\Debug\net6.0\10-ForceBook.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\10-ForceBook\bin\Debug\net6.0\10-ForceBook.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\10-ForceBook\bin\Debug\net6.0\10-ForceBook.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\10-ForceBook\bin\Debug\net6.0\10-ForceBook.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\10-ForceBook\obj\Debug\net6.0\10-ForceBook.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\10-ForceBook\obj\Debug\net6.0\10-ForceBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\10-ForceBook\obj\Debug\net6.0\10-ForceBook.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\10-ForceBook\obj\Debug\net6.0\10-ForceBook.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\10-ForceBook\obj\Debug\net6.0\10-ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\10-ForceBook\obj\Debug\net6.0\10-ForceBook.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\10-ForceBook\obj\Debug\net6.0\refint\10-ForceBook.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\10-ForceBook\obj\Debug\net6.0\10-ForceBook.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\10-ForceBook\obj\Debug\net6.0\10-ForceBook.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\10-ForceBook\obj\Debug\net6.0\ref\10-ForceBook.dll

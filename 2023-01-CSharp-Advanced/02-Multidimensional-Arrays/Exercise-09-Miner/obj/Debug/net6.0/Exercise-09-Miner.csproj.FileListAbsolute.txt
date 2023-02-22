@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-09-Miner\bin\Debug\net6.0\Exercise-09-Miner.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-09-Miner\bin\Debug\net6.0\Exercise-09-Miner.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-09-Miner\bin\Debug\net6.0\Exercise-09-Miner.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-09-Miner\bin\Debug\net6.0\Exercise-09-Miner.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-09-Miner\bin\Debug\net6.0\Exercise-09-Miner.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-09-Miner\obj\Debug\net6.0\Exercise-09-Miner.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-09-Miner\obj\Debug\net6.0\Exercise-09-Miner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-09-Miner\obj\Debug\net6.0\Exercise-09-Miner.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-09-Miner\obj\Debug\net6.0\Exercise-09-Miner.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-09-Miner\obj\Debug\net6.0\Exercise-09-Miner.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-09-Miner\obj\Debug\net6.0\Exercise-09-Miner.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-09-Miner\obj\Debug\net6.0\refint\Exercise-09-Miner.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-09-Miner\obj\Debug\net6.0\Exercise-09-Miner.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-09-Miner\obj\Debug\net6.0\Exercise-09-Miner.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-09-Miner\obj\Debug\net6.0\ref\Exercise-09-Miner.dll

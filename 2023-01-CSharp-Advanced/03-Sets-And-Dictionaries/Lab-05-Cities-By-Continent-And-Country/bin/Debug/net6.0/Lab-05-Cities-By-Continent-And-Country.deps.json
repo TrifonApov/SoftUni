@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lab-05-Cities-By-Continent-And-Country/1.0.0": {
+        "runtime": {
+          "Lab-05-Cities-By-Continent-And-Country.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab-05-Cities-By-Continent-And-Country/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

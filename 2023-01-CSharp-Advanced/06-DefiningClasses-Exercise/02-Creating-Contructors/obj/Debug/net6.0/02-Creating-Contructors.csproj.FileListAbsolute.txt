@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\02-Creating-Contructors\bin\Debug\net6.0\02-Creating-Contructors.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\02-Creating-Contructors\bin\Debug\net6.0\02-Creating-Contructors.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\02-Creating-Contructors\bin\Debug\net6.0\02-Creating-Contructors.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\02-Creating-Contructors\bin\Debug\net6.0\02-Creating-Contructors.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\02-Creating-Contructors\bin\Debug\net6.0\02-Creating-Contructors.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\02-Creating-Contructors\obj\Debug\net6.0\02-Creating-Contructors.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\02-Creating-Contructors\obj\Debug\net6.0\02-Creating-Contructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\02-Creating-Contructors\obj\Debug\net6.0\02-Creating-Contructors.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\02-Creating-Contructors\obj\Debug\net6.0\02-Creating-Contructors.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\02-Creating-Contructors\obj\Debug\net6.0\02-Creating-Contructors.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\02-Creating-Contructors\obj\Debug\net6.0\02-Creating-Contructors.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\02-Creating-Contructors\obj\Debug\net6.0\refint\02-Creating-Contructors.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\02-Creating-Contructors\obj\Debug\net6.0\02-Creating-Contructors.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\02-Creating-Contructors\obj\Debug\net6.0\02-Creating-Contructors.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\02-Creating-Contructors\obj\Debug\net6.0\ref\02-Creating-Contructors.dll

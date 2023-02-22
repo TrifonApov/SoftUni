@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericSwapMethod\bin\Debug\net6.0\GenericSwapMethod.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericSwapMethod\bin\Debug\net6.0\GenericSwapMethod.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericSwapMethod\bin\Debug\net6.0\GenericSwapMethod.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericSwapMethod\bin\Debug\net6.0\GenericSwapMethod.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericSwapMethod\bin\Debug\net6.0\GenericSwapMethod.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericSwapMethod\obj\Debug\net6.0\refint\GenericSwapMethod.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericSwapMethod\obj\Debug\net6.0\ref\GenericSwapMethod.dll

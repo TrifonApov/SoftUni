@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-02-2x2-Squared-In-Matrix\bin\Debug\net6.0\Exercise-02-2x2-Squared-In-Matrix.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-02-2x2-Squared-In-Matrix\bin\Debug\net6.0\Exercise-02-2x2-Squared-In-Matrix.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-02-2x2-Squared-In-Matrix\bin\Debug\net6.0\Exercise-02-2x2-Squared-In-Matrix.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-02-2x2-Squared-In-Matrix\bin\Debug\net6.0\Exercise-02-2x2-Squared-In-Matrix.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-02-2x2-Squared-In-Matrix\bin\Debug\net6.0\Exercise-02-2x2-Squared-In-Matrix.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-02-2x2-Squared-In-Matrix\obj\Debug\net6.0\Exercise-02-2x2-Squared-In-Matrix.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-02-2x2-Squared-In-Matrix\obj\Debug\net6.0\Exercise-02-2x2-Squared-In-Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-02-2x2-Squared-In-Matrix\obj\Debug\net6.0\Exercise-02-2x2-Squared-In-Matrix.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-02-2x2-Squared-In-Matrix\obj\Debug\net6.0\Exercise-02-2x2-Squared-In-Matrix.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-02-2x2-Squared-In-Matrix\obj\Debug\net6.0\Exercise-02-2x2-Squared-In-Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-02-2x2-Squared-In-Matrix\obj\Debug\net6.0\Exercise-02-2x2-Squared-In-Matrix.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-02-2x2-Squared-In-Matrix\obj\Debug\net6.0\refint\Exercise-02-2x2-Squared-In-Matrix.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-02-2x2-Squared-In-Matrix\obj\Debug\net6.0\Exercise-02-2x2-Squared-In-Matrix.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-02-2x2-Squared-In-Matrix\obj\Debug\net6.0\Exercise-02-2x2-Squared-In-Matrix.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-02-2x2-Squared-In-Matrix\obj\Debug\net6.0\ref\Exercise-02-2x2-Squared-In-Matrix.dll

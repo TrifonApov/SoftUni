@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-04-Product-Shop\bin\Debug\net6.0\Lab-04-Product-Shop.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-04-Product-Shop\bin\Debug\net6.0\Lab-04-Product-Shop.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-04-Product-Shop\bin\Debug\net6.0\Lab-04-Product-Shop.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-04-Product-Shop\bin\Debug\net6.0\Lab-04-Product-Shop.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-04-Product-Shop\bin\Debug\net6.0\Lab-04-Product-Shop.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-04-Product-Shop\obj\Debug\net6.0\Lab-04-Product-Shop.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-04-Product-Shop\obj\Debug\net6.0\Lab-04-Product-Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-04-Product-Shop\obj\Debug\net6.0\Lab-04-Product-Shop.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-04-Product-Shop\obj\Debug\net6.0\Lab-04-Product-Shop.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-04-Product-Shop\obj\Debug\net6.0\Lab-04-Product-Shop.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-04-Product-Shop\obj\Debug\net6.0\Lab-04-Product-Shop.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-04-Product-Shop\obj\Debug\net6.0\refint\Lab-04-Product-Shop.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-04-Product-Shop\obj\Debug\net6.0\Lab-04-Product-Shop.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-04-Product-Shop\obj\Debug\net6.0\Lab-04-Product-Shop.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\03-Sets-And-Dictionaries\Lab-04-Product-Shop\obj\Debug\net6.0\ref\Lab-04-Product-Shop.dll

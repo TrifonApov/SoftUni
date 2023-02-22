@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-01-DIagonal-Difference\bin\Debug\net6.0\Exercise-01-DIagonal-Difference.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-01-DIagonal-Difference\bin\Debug\net6.0\Exercise-01-DIagonal-Difference.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-01-DIagonal-Difference\bin\Debug\net6.0\Exercise-01-DIagonal-Difference.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-01-DIagonal-Difference\bin\Debug\net6.0\Exercise-01-DIagonal-Difference.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-01-DIagonal-Difference\bin\Debug\net6.0\Exercise-01-DIagonal-Difference.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-01-DIagonal-Difference\obj\Debug\net6.0\Exercise-01-DIagonal-Difference.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-01-DIagonal-Difference\obj\Debug\net6.0\Exercise-01-DIagonal-Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-01-DIagonal-Difference\obj\Debug\net6.0\Exercise-01-DIagonal-Difference.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-01-DIagonal-Difference\obj\Debug\net6.0\Exercise-01-DIagonal-Difference.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-01-DIagonal-Difference\obj\Debug\net6.0\Exercise-01-DIagonal-Difference.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-01-DIagonal-Difference\obj\Debug\net6.0\Exercise-01-DIagonal-Difference.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-01-DIagonal-Difference\obj\Debug\net6.0\refint\Exercise-01-DIagonal-Difference.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-01-DIagonal-Difference\obj\Debug\net6.0\Exercise-01-DIagonal-Difference.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-01-DIagonal-Difference\obj\Debug\net6.0\Exercise-01-DIagonal-Difference.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Exercise-01-DIagonal-Difference\obj\Debug\net6.0\ref\Exercise-01-DIagonal-Difference.dll

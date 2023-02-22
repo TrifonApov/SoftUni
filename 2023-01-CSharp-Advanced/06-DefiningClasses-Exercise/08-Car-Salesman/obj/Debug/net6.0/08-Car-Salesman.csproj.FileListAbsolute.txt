@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\08-Car-Salesman\bin\Debug\net6.0\08-Car-Salesman.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\08-Car-Salesman\bin\Debug\net6.0\08-Car-Salesman.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\08-Car-Salesman\bin\Debug\net6.0\08-Car-Salesman.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\08-Car-Salesman\bin\Debug\net6.0\08-Car-Salesman.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\08-Car-Salesman\bin\Debug\net6.0\08-Car-Salesman.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\08-Car-Salesman\obj\Debug\net6.0\08-Car-Salesman.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\08-Car-Salesman\obj\Debug\net6.0\08-Car-Salesman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\08-Car-Salesman\obj\Debug\net6.0\08-Car-Salesman.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\08-Car-Salesman\obj\Debug\net6.0\08-Car-Salesman.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\08-Car-Salesman\obj\Debug\net6.0\08-Car-Salesman.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\08-Car-Salesman\obj\Debug\net6.0\08-Car-Salesman.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\08-Car-Salesman\obj\Debug\net6.0\refint\08-Car-Salesman.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\08-Car-Salesman\obj\Debug\net6.0\08-Car-Salesman.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\08-Car-Salesman\obj\Debug\net6.0\08-Car-Salesman.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\DefiningClasses-Exercise\08-Car-Salesman\obj\Debug\net6.0\ref\08-Car-Salesman.dll

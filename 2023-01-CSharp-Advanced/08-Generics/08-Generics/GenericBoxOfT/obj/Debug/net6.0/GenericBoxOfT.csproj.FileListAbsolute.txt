@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericBoxOfT\bin\Debug\net6.0\GenericBoxOfT.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericBoxOfT\bin\Debug\net6.0\GenericBoxOfT.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericBoxOfT\bin\Debug\net6.0\GenericBoxOfT.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericBoxOfT\bin\Debug\net6.0\GenericBoxOfT.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericBoxOfT\bin\Debug\net6.0\GenericBoxOfT.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericBoxOfT\obj\Debug\net6.0\GenericBoxOfT.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericBoxOfT\obj\Debug\net6.0\GenericBoxOfT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericBoxOfT\obj\Debug\net6.0\GenericBoxOfT.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericBoxOfT\obj\Debug\net6.0\GenericBoxOfT.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericBoxOfT\obj\Debug\net6.0\GenericBoxOfT.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericBoxOfT\obj\Debug\net6.0\GenericBoxOfT.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericBoxOfT\obj\Debug\net6.0\refint\GenericBoxOfT.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericBoxOfT\obj\Debug\net6.0\GenericBoxOfT.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericBoxOfT\obj\Debug\net6.0\GenericBoxOfT.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericBoxOfT\obj\Debug\net6.0\ref\GenericBoxOfT.dll

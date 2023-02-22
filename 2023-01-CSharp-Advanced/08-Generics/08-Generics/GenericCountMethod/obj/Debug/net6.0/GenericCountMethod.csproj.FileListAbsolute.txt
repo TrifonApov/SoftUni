@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericCountMethod\bin\Debug\net6.0\GenericCountMethod.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericCountMethod\bin\Debug\net6.0\GenericCountMethod.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericCountMethod\bin\Debug\net6.0\GenericCountMethod.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericCountMethod\bin\Debug\net6.0\GenericCountMethod.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericCountMethod\bin\Debug\net6.0\GenericCountMethod.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericCountMethod\obj\Debug\net6.0\GenericCountMethod.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericCountMethod\obj\Debug\net6.0\GenericCountMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericCountMethod\obj\Debug\net6.0\GenericCountMethod.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericCountMethod\obj\Debug\net6.0\GenericCountMethod.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericCountMethod\obj\Debug\net6.0\GenericCountMethod.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericCountMethod\obj\Debug\net6.0\GenericCountMethod.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericCountMethod\obj\Debug\net6.0\refint\GenericCountMethod.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericCountMethod\obj\Debug\net6.0\GenericCountMethod.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericCountMethod\obj\Debug\net6.0\GenericCountMethod.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\08-Generics\08-Generics\GenericCountMethod\obj\Debug\net6.0\ref\GenericCountMethod.dll

@@ -1,0 +1,15 @@
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-02-Sum-Matrix-Columns\bin\Debug\net6.0\Lab-02-Sum-Matrix-Columns.exe
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-02-Sum-Matrix-Columns\bin\Debug\net6.0\Lab-02-Sum-Matrix-Columns.deps.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-02-Sum-Matrix-Columns\bin\Debug\net6.0\Lab-02-Sum-Matrix-Columns.runtimeconfig.json
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-02-Sum-Matrix-Columns\bin\Debug\net6.0\Lab-02-Sum-Matrix-Columns.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-02-Sum-Matrix-Columns\bin\Debug\net6.0\Lab-02-Sum-Matrix-Columns.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-02-Sum-Matrix-Columns\obj\Debug\net6.0\Lab-02-Sum-Matrix-Columns.csproj.AssemblyReference.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-02-Sum-Matrix-Columns\obj\Debug\net6.0\Lab-02-Sum-Matrix-Columns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-02-Sum-Matrix-Columns\obj\Debug\net6.0\Lab-02-Sum-Matrix-Columns.AssemblyInfoInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-02-Sum-Matrix-Columns\obj\Debug\net6.0\Lab-02-Sum-Matrix-Columns.AssemblyInfo.cs
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-02-Sum-Matrix-Columns\obj\Debug\net6.0\Lab-02-Sum-Matrix-Columns.csproj.CoreCompileInputs.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-02-Sum-Matrix-Columns\obj\Debug\net6.0\Lab-02-Sum-Matrix-Columns.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-02-Sum-Matrix-Columns\obj\Debug\net6.0\refint\Lab-02-Sum-Matrix-Columns.dll
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-02-Sum-Matrix-Columns\obj\Debug\net6.0\Lab-02-Sum-Matrix-Columns.pdb
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-02-Sum-Matrix-Columns\obj\Debug\net6.0\Lab-02-Sum-Matrix-Columns.genruntimeconfig.cache
+C:\Users\Trifon\Documents\SoftUniCourses\CSharp-Advanced\02-Multidimensional-Arrays\Lab-02-Sum-Matrix-Columns\obj\Debug\net6.0\ref\Lab-02-Sum-Matrix-Columns.dll
