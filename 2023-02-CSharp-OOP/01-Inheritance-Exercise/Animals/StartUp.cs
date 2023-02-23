@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace Animals;
 
@@ -7,55 +6,62 @@ public class StartUp
 {
     public static void Main(string[] args)
     {
-        string command = Console.ReadLine();
-        List<ProduceSound> animals = new ();
-
-        while (command != "Beast!")
+        
+        while (true)
         {
+            string animalToAdd = Console.ReadLine();
+            if (animalToAdd == "Beast!")
+            {
+                break;
+            }
             string[] tokens = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
             string name = tokens[0];
             int age = int.Parse(tokens[1]);
             string gender = tokens[2];
+
             try
             {
-                switch (command.ToLower())
+                switch (animalToAdd)
                 {
-                    case "dog":
+                    case "Dog":
                         Dog dog = new(name, age, gender);
-                        animals.Add(dog);
+                        PrintAnimal(dog);
+                        Console.WriteLine(dog.ProduceSound());
                         break;
-                    case "frog":
+                    case "Frog":
                         Frog frog = new(name, age, gender);
-                        animals.Add(frog);
+                        PrintAnimal(frog);
+                        Console.WriteLine(frog.ProduceSound());
                         break;
-                    case "cat":
+                    case "Cat":
                         Cat cat = new(name, age, gender);
-                        animals.Add(cat);
+                        PrintAnimal(cat);
+                        Console.WriteLine(cat.ProduceSound());
                         break;
-                    case "tomcat":
+                    case "Tomcat":
                         Tomcat tomcat = new(name, age);
-                        animals.Add(tomcat);
+                        PrintAnimal(tomcat);
+                        Console.WriteLine(tomcat.ProduceSound());
                         break;
-                    case "kitten":
+                    case "Kitten":
                         Kitten kitten = new(name, age);
-                        animals.Add(kitten);
+                        PrintAnimal(kitten);
+                        Console.WriteLine(kitten.ProduceSound());
                         break;
-                    default: break;
                 }
             }
             catch (ArgumentException e)
             {
                 Console.WriteLine(e.Message);
             }
-
-            command = Console.ReadLine();
         }
 
-        foreach (var animal in animals)
-        {
-            Console.WriteLine(animal.GetType().Name);
-            Console.WriteLine(animal);
-            animal.ProduceSound();
-        }
+        
+    }
+
+    public static void PrintAnimal(Animal animal)
+    {
+        Console.WriteLine(animal.GetType().Name);
+        Console.WriteLine(animal);
     }
 }

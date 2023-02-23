@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Runtime.CompilerServices;
-using System.Text;
 
 namespace Animals;
 
-public class Animal
+public abstract class Animal
 {
     private string name;
     private int age;
@@ -20,9 +18,9 @@ public class Animal
     public string Name
     {
         get => name;
-        set
+        private set
         {
-            if (string.IsNullOrEmpty(value) || string.IsNullOrWhiteSpace(value))
+            if (string.IsNullOrWhiteSpace(value))
             {
                 throw new ArgumentException("Invalid input!");
             }
@@ -33,9 +31,9 @@ public class Animal
     public int Age
     {
         get => age;
-        set
+        private set
         {
-            if (value < 0)
+            if (value <= 0)
             {
                 throw new ArgumentException("Invalid input!");
             }
@@ -46,18 +44,20 @@ public class Animal
     public string Gender
     {
         get => gender;
-        set
+        private set
         {
-            if (value.ToLower() != "female" && value.ToLower() != "male")
+            if (string.IsNullOrWhiteSpace(value))
             {
                 throw new ArgumentException("Invalid input!");
             }
             gender = value;
         }
     }
-
+    
     public override string ToString()
     {
         return $"{Name} {Age} {Gender}";
-    }   
+    }
+    public abstract string ProduceSound();
 }
+

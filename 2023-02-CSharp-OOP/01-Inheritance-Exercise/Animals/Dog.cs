@@ -2,14 +2,15 @@
 
 namespace Animals;
 
-public class Dog : Animal, ProduceSound
+public class Dog : Animal
 {
     public Dog(string name, int age, string gender) : base(name, age, gender)
     {
     }
 
-    public void ProduceSound()
+
+    public override string ProduceSound()
     {
-        Console.WriteLine("Woof!");
+        return "Woof!";
     }
 }
