@@ -1,4 +1,4 @@
-﻿namespace Restaurant;
+﻿namespace Restaurant.Beverages;
 
 public class Beverage : Product
 {

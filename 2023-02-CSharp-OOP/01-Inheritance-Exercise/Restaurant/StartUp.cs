@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Restaurant;
+﻿namespace Restaurant;
 
 public class StartUp
 {

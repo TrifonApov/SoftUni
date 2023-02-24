@@ -1,4 +1,6 @@
-﻿namespace Restaurant;
+﻿using Restaurant.Beverages;
+
+namespace Restaurant.Beverages.ColdBeverages;
 
 public class ColdBeverage : Beverage
 {

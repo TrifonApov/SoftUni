@@ -1,4 +1,4 @@
-﻿namespace Restaurant;
+﻿namespace Restaurant.Foods;
 
 public class Food : Product
 {
