@@ -1,4 +1,4 @@
-﻿namespace NeedForSpeed
+﻿namespace NeedForSpeed.Motorcycles
 {
     public class Motorcycle : Vehicle
     {
