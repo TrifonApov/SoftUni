@@ -1,11 +1,22 @@
-﻿namespace Vehicles.Models;
+﻿using System;
+
+namespace Vehicles.Models;
 
 public class Truck : Vehicle
 {
-    private const double IncreasConsumption = 1.6;
+    private const double IncreaseConsumption = 1.6;
 
-    public Truck(double fuelQuantity, double fuelConsumption)
-        : base(fuelQuantity, fuelConsumption, IncreasConsumption)
+    public Truck(double fuelQuantity, double fuelConsumption, double tankCapacity)
+        : base(fuelQuantity, fuelConsumption, tankCapacity, IncreaseConsumption)
     {
+    }
+
+    public override void Refuel(double amount)
+    {
+        if (amount + FuelQuantity > TankCapacity)
+        {
+            throw new ArgumentException($"Cannot fit {amount} fuel in the tank");
+        }
+        base.Refuel(amount * 0.95);
     }
 }
