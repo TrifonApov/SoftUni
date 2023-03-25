@@ -4,19 +4,18 @@ using WildFarm.Factory.Interfaces;
 using WildFarm.IO;
 using WildFarm.IO.Interfaces;
 
-namespace WildFarm
+namespace WildFarm;
+
+public class Program
 {
-    public class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            IReader reader = new ConsoleReader();
-            IWriter writer = new ConsoleWriter();
-            IAnimalFactory animalFactory = new AnimalFactory();
+        IReader reader = new ConsoleReader();
+        IWriter writer = new ConsoleWriter();
+        IAnimalFactory animalFactory = new AnimalFactory();
 
-            Engine engine = new Engine(reader, writer, animalFactory);
+        Engine engine = new Engine(reader, writer, animalFactory);
 
-            engine.Run();
-        }
+        engine.Run();
     }
 }
