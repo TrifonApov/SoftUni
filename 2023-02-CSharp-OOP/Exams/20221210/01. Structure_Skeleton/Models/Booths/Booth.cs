@@ -1,7 +1,10 @@
 ﻿using System;
+using System.Text;
 using ChristmasPastryShop.Models.Booths.Contracts;
+using ChristmasPastryShop.Models.Cocktails;
 using ChristmasPastryShop.Models.Cocktails.Contracts;
 using ChristmasPastryShop.Models.Delicacies.Contracts;
+using ChristmasPastryShop.Repositories;
 using ChristmasPastryShop.Repositories.Contracts;
 using ChristmasPastryShop.Utilities.Messages;
 
@@ -21,7 +24,11 @@ namespace ChristmasPastryShop.Models.Booths
         {
             BoothId = boothId;
             Capacity = capacity;
-            delicacyMenu = new IRepository<IDelicacy>();
+            delicacyMenu = new DelicacyRepository();
+            cocktailMenu = new CocktailRepository();
+            CurrentBill = 0;
+            Turnover = 0;
+            IsReserved = false;
         }
 
         public int BoothId
@@ -75,17 +82,43 @@ namespace ChristmasPastryShop.Models.Booths
 
         public void UpdateCurrentBill(double amount)
         {
-            throw new System.NotImplementedException();
+            currentBill += amount;
         }
 
         public void Charge()
         {
-            throw new System.NotImplementedException();
+            Turnover += CurrentBill;
+            CurrentBill = 0;
         }
 
         public void ChangeStatus()
         {
-            throw new System.NotImplementedException();
+            IsReserved = !IsReserved;
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine($"Booth: {boothId}");
+            sb.AppendLine($"Capacity: {capacity}");
+            sb.AppendLine($"Turnover: {turnover:F2} lv");
+            
+            sb.AppendLine("-Cocktail menu:");
+            foreach (ICocktail cocktail in cocktailMenu.Models)
+            {
+                sb.AppendLine($"--{cocktail.ToString()}");
+            }
+
+            sb.AppendLine("-Delicacy menu:");
+            foreach (IDelicacy delicacy in delicacyMenu.Models)
+            {
+                sb.AppendLine($"--{delicacy.ToString()}");
+            }
+
+
+
+            return sb.ToString().Trim();
         }
     }
 }
