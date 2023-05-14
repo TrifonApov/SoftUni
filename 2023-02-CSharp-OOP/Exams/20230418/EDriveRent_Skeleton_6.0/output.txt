@@ -1,0 +1,24 @@
+Tisha Reenie is registered successfully with DLN-7246506
+Bernard Remy is registered successfully with DLN-CDYHVSR68661
+7246506 is already registered in our platform.
+Chevrolet Volt is uploaded successfully with LPN-CWP8032
+Volkswagen e-Up! is uploaded successfully with LPN-COUN199728
+Mercedes-Benz EQS is uploaded successfully with LPN-5UNM315
+Ford e-Transit is uploaded successfully with LPN-726QOA
+BrightDrop Zevo400 is uploaded successfully with LPN-SC39690
+EcoTruck is not accessible in our platform.
+726QOA belongs to another vehicle.
+SOF/PLD - 144 km is unlocked in our platform.
+BUR/VAR - 87 km is unlocked in our platform.
+BUR/VAR - 87 km is already added in our platform.
+SOF/PLD shorter route is already added in our platform.
+BUR/VAR - 86.999 km is unlocked in our platform.
+Mercedes-Benz EQS License plate: 5UNM315 Battery: 81% Status: OK
+Chevrolet Volt License plate: CWP8032 Battery: 68% Status: damaged
+User 7246506 is blocked in the platform! Trip is not allowed.
+Vehicle CWP8032 is damaged! Trip is not allowed.
+Route 2 is locked! Trip is not allowed.
+1 vehicles are successfully repaired!
+*** E-Drive-Rent ***
+Bernard Remy Driving license: CDYHVSR68661 Rating: 0.5
+Tisha Reenie Driving license: 7246506 Rating: 0
