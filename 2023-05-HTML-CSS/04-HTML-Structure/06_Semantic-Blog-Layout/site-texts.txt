@@ -10,9 +10,7 @@ HTML
 New feature: JPEG XL image format
 
 JPEG XL image format is a modern image format optimized for web environments. JPEG XL generally has better compression than WebP, JPEG, PNG and GIF and is designed to supersede them.
-
 Learn more at: https://en.wikipedia.org/wiki/JPEG_XL
-
 By The HTTP Working Group. Published January 23rd
 
 New feature: Cookie Store API
