@@ -1,0 +1,18 @@
+html {
+    font-family: Helvetica, sans-serif;
+    
+}
+body{
+    background-color: rgb(238, 238, 238);
+}
+article {
+    display: inline-block;
+    width: 70%;
+}
+img {
+    width: 100%;
+}
+aside {
+    display: inline-block;
+    width: 10%;
+}
