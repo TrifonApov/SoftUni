@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.container {
+    border: 3px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1em;
+    gap: 10px;
+}
+
+.box {
+    flex: 0 0 auto;
+    background-color: aliceblue;
+    padding: 0.5em;
+    border: 2px solid orange;
+    text-align: center;
+}
+
+/* 
+.box:nth-child(3){
+    margin: 10px;
+} */
