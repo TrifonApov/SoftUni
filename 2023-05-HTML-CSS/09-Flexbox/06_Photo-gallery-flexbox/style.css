@@ -1,0 +1,26 @@
+body, ul, li {
+    display: flex;
+    background-color: #ddd;
+}
+.gallery {
+    max-width: 65vw;
+}
+
+ul {
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 3em;
+}
+
+li {
+    background-color: #fff;
+    padding: 1em;
+    border: 10px solid black;
+    box-shadow: inset 5px 5px 10px rgba(0, 0, 0, 0.7), inset -5px -5px 10px rgba(0, 0, 0, 0.7),
+                5px 5px 10px rgba(0, 0, 0, 0.7), -5px -5px 10px rgba(0, 0, 0, 0.7);
+    padding: 1.5em;
+}
+
+img {
+    object-fit: contain;
+ }
