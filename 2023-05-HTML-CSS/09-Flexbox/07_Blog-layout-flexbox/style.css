@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(238, 238, 238);
+}
+img{
+    background-color: rgb(255, 255, 255);
+}
+.page {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 2em auto;
+}
+aside a {
+    color: rgb(0, 153, 0);
+}
+.page header {
+    border-bottom: 2px solid #000;
+    flex-basis: 100%;
+}
+.page header h1 {
+    text-transform: uppercase;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3em;
+}
+
+section.articles {
+    flex: 0 1 70%;
+}
+
+aside {
+    flex: 1 0 auto;
+}
+
+article {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+article>h2 {
+    flex-basis: 1 0 100%;
+}
+
+p {
+    flex: 0 0 80%;
+}
