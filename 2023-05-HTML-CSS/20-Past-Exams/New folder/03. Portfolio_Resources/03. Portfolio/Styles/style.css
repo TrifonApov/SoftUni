@@ -1,0 +1,50 @@
+html {
+    font: 20px/1.5 Raleway;
+}
+
+section {
+    margin-bottom: 20px;
+    background-color: #efefef;
+    width: 95vw;
+    height: 90vh;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    padding: 0px 50px;
+}
+
+.section1 nav {
+    position: absolute;
+    top:5px;
+    right: 5px;
+}
+
+.section1 .content {
+    flex: 0 1 35%;
+    align-self: center;
+}
+
+.section1 .content h1 {
+    font-weight: 100;
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+.section1 .content h1 bold {
+    font-weight: bold;
+}
+.section1 .content p {
+    font-style: italic;
+    font-weight: 800;
+}
+.section1 .content .verticalDevider {
+    margin-top: 50px;
+    border-left: 1px solid #000;
+    height: 100px;
+}
+
+.section1 img {
+    flex: 1 1 30%;
+    align-self: flex-end;
+}
+

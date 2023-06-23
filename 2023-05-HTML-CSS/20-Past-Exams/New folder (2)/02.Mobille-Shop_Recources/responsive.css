@@ -1,0 +1,89 @@
+@media (max-width: 600px) {
+    /* ---------Navigation--------- */
+    .max-width-container {
+        padding: 10px;
+        display: block;
+    }
+
+    .home-container01 {
+        display: none;
+    }
+
+    .home-left, .home-right {
+        display: none;
+    }
+
+    .navbar-logo-title {
+        margin: 0;
+    }
+
+    /* ---------BLUESTONE--------- */
+    .home-container {
+        padding-top: 45px;
+    }
+
+    .home-hero1 {
+        flex-direction: column;
+    }
+
+    .home-container03 {
+        align-items: center;
+    }
+
+    .column {
+        padding-top: 30px;
+    }
+
+    /* ---------Navigation--------- */
+    .category-card-category-card {
+        flex: 0 1 45%;
+    }
+    .category-card-category-card>img {
+        width: 100%;
+        height: 350px;
+        object-fit: cover;
+    }
+
+    /* ---------LOOKBOOKS--------- */
+    .section-container {
+        padding-top: 30px;
+        flex-direction: column;
+        
+    }
+
+    .home-content {
+        width: 100%;
+        margin-top: 40px;
+        margin-bottom: 10px;
+    }
+    
+    .home-text30{ 
+        width: 100%;
+    }
+
+    .home-image6 {
+        width: 100%;
+    }
+
+    .home-left4 .button {
+        margin-bottom: 35px;
+    }
+
+    .blog-post-card-blog-post-card {
+        max-width: 100%;
+    }
+
+    /* ---------FOOTER--------- */
+    .home-main {
+        padding-bottom: 50px;
+    }
+    .home-footer1 {
+        padding: 20px;
+        flex-direction: column-reverse;
+    }
+
+    .home-links-container {
+        flex-direction: column;
+        margin-bottom: 35px;
+    }
+}

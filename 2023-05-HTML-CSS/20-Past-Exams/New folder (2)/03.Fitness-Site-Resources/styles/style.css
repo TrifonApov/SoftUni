@@ -1,0 +1,33 @@
+
+.contacts {
+    font: 18px/1.5 "PT-Sans", sans-serif;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #d01919;
+    padding: 20px 50px;
+    position: absolute;
+}
+.contacts i {
+    padding-right: 10px;
+    font-weight: 600;
+}
+.contacts div {
+    color: #fff;
+}
+
+nav ul {
+    position: absolute;
+    top: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    list-style-type: none;
+    gap: 20px;
+}
+
+nav ul a {
+    font-family: 20px/1.5 "PT-Sans", sans-serif;
+    text-decoration: none;
+    color: #fff;
+}

@@ -1,0 +1,9 @@
+main section {
+    width: 100%;
+    
+}
+
+main > section:nth-child(odd){
+    background-color: #ade2df;
+}
+

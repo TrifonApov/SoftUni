@@ -1,0 +1,39 @@
+
+header {
+    margin-bottom: 20px;
+    height: 100px;
+}
+
+header nav {
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+header nav ul {
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+}
+
+header nav ul li {
+    display: flex;
+    font-size: 20px;
+    width: 150px;
+    height: 50px;
+    align-self: center;
+}
+
+header a {
+    width: 100%;
+    align-self: center;
+    color: #000;
+    text-align: center;
+}
+
+header .signin {
+    font-weight: 600;
+    background-color: #ade2df;
+    border-radius: 10px;
+    
+}

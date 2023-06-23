@@ -1,0 +1,80 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+html {
+    font: 24px/1.2 "Open Sans";
+}
+
+.hero {
+    background-color: #f6f7f8;
+    border-radius: 50px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 15px 15px;
+    border: 1px solid #808080;
+    width: 80vw;
+    height: 80vh;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+}
+
+.hero img {
+    border-radius: 50px 0 0 50px;
+    width: 50%;
+        object-fit: cover;
+}
+
+.container {
+    align-self: baseline;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.container h1 {
+    flex: 1 1 100%;
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+.container .btn {
+    border-radius: 20px;
+    flex: 0 0 200px;
+    padding: 15px 5px;
+    font-size: 0.8em;
+}
+
+.container .btn-standart {
+    background-color: #86d862;
+    margin-right: 120px;
+}
+.container .btn-metric {
+    background-color: #e0e0df;
+}
+
+.container form {
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.container label {
+    flex: 1 1 100%;
+    text-align: center;
+    font-weight: bold;
+    margin: 20px auto;
+}
+
+.container #gender {
+    flex: 0 1 35%;
+    margin-right: 50px;
+}
+
+.container input[placeholder="Years..."]{
+    flex: 0 1 35%;
+}
+.container input[type="submit"] {
+    flex: 1 1 70%;
+
+}
+

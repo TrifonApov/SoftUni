@@ -1,0 +1,48 @@
+main .hero {
+    padding: 100px;
+}
+main .hero h1 {
+    text-align: center;
+    font-size: 60px;
+    letter-spacing: 3px;
+    margin-bottom: 30px;
+}
+
+main .hero p {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+main .hero ul {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+main .hero ul li {
+    width: 320px;
+    height: 80px;
+    background-color: #000;
+    border-radius: 10px;
+    position: relative;
+}
+main .hero ul li:hover {
+    cursor: pointer;;
+}
+
+main .hero ul li a i {
+    color: #fff;
+}
+
+main .hero ul li a {
+    font-size: 18px;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}

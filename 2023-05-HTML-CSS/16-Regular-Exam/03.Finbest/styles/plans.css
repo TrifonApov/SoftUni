@@ -1,0 +1,114 @@
+.plans {
+    background-color: #f3f5fa;
+    padding-top: 40px;
+}
+.plans > p {
+    width: 150px;
+    margin: 0 auto;
+    padding: 5px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    background-color: #ade2df;
+    border-radius: 5px;
+}
+
+.plans h2 {
+    text-align: center;
+    margin: 20px 0 40px 0;
+}
+
+.plans .container {
+    display: grid;
+    border-radius: 50px;
+    grid-template-columns: 1fr 1fr 1fr 50%;
+}
+.container > section{
+    padding: 20px;
+    height: 90%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.standart, .plus, .premium {
+    background-color: #fff;
+}
+.standart {
+    border-top-left-radius: 10px;
+}
+
+.expand {
+    border-top-right-radius: 10px;
+    background-color: #ade2df;
+}
+
+.container > section h4 {
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.container > section p {
+    margin-bottom: 10px;
+
+}
+
+.container > section h3 {
+    font-size: 40px;
+    margin-bottom: 10px;
+    width: 100%;
+    border-bottom: 1px dotted #ccc;
+}
+
+.container > section h3 span {
+    font-weight: 200;
+}
+
+.container > section ul li {
+    margin-bottom: 10px;
+}
+
+.container .standart, .container .plus {
+    border-right: 1px dotted #ccc;
+}
+.expand {
+    padding: 10px;
+}
+.expand h3 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.expand p {
+    width: 90%;
+    font-size: 30px;
+}
+
+.plans .container a {
+    display: flex;
+    margin: 50px auto;
+    
+    font-size: 20px;
+    font-weight: 400;
+    justify-content: center;
+    width: 90%;
+    background-color: #ade2df;
+    height: 50px;
+    border-radius: 10px;
+
+}
+
+.plans .container a span{
+align-self: center;
+}
+
+.contact-us {
+    display: flex;
+    margin: 50px auto;
+    font-size: 20px;
+    font-weight: 400;
+    justify-content: center;
+    width: 90%;
+    background-color: #000;
+    height: 50px;
+    border-radius: 10px;
+}

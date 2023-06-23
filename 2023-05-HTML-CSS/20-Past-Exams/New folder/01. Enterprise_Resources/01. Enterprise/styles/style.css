@@ -1,0 +1,60 @@
+html {
+    font: 20px/1.5 Helvetica;
+    letter-spacing: 1px;
+}
+
+.container {
+    width: 1300px;
+    height: 600px;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-around;
+    background-color: #f6f8f9;
+    border-radius: 10px;
+}
+
+.container .content {
+    align-self: center;
+    padding: 2em;
+    width: 40%;
+}
+
+.container img {
+    height: 75%;
+    align-self: flex-end;
+}
+
+.content h1 {
+    font-size: 0.6em;
+    color: #273240;
+    font-weight: 600;
+    margin-bottom: 1em;
+}
+
+.content h2 {
+    font-size: 1.9em;
+    color: #273240;
+    font-weight: 100;
+    margin-bottom: 0.7em;
+}
+
+.content p {
+    color: #646f79;
+    margin-bottom: 20px;
+}
+
+.content .btn {
+    height: 3em;
+    padding: 1em 0.8em;
+    border-radius: 6px;
+    font-size: 0.9em;
+    font-weight: bold;
+    width: 35%;
+}
+
+.content .btn-contact {
+    border: #786eff;
+    color: #fff;
+    background-color: #786eff;
+    margin-right: 15px;
+}

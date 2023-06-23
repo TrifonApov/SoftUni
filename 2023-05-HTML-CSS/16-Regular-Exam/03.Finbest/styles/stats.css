@@ -1,0 +1,27 @@
+.stats {
+    display: flex;
+    justify-content: center;
+    margin: 60px auto;
+}
+
+.stats div {
+    border-left: 1px solid #ccc;
+    padding: 20px;
+    padding-bottom: 80px;
+    width: 26%;
+}
+.stats div:last-child {
+    border-right: 1px solid #ccc;
+}
+
+
+.stats h3 {
+    font-size: 52px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.stats p {
+    font-size: 24px;
+    text-align: center;
+}

@@ -1,0 +1,71 @@
+@media (max-width: 600px) {
+    /* ---- Navigation -------------------------------- */
+    
+    .home-navbar {
+        justify-content: space-around;
+        gap: 20px;
+        padding-left: 50px;
+        padding-right: 20px;
+    }
+
+    .home-navbar-container {
+        position: static;
+    }
+
+    .home-cta-btn {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    /* ----- Home Hero----------------------- */
+    .home-hero {
+        flex-direction: column-reverse;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-bottom: 20px;
+    }
+
+    .home-image1 {
+        width: 95%;
+    }
+
+    .home-hero-text-container {
+        width: 95%;
+        margin: 10px auto;
+    }
+
+    .home-cta-btn2 {
+        width: 200px;
+        margin: 0 auto;
+    }
+
+    /* ----- Tell your story ----------------------------- */
+    .home-heading-container {
+        width: 100%;
+    }
+
+
+    /* -----  ----------------------------- */
+    .home-cards-container {
+        flex-direction: column;
+    }
+
+    .home-feature-card,
+    .home-feature-card1, 
+    .home-feature-card2 {
+        width: 100%;
+    }
+
+    .home-cards-container>div {
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .home-stats {
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        top: 1000px;
+    }
+}

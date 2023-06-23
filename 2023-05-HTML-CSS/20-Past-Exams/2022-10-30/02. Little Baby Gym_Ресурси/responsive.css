@@ -1,0 +1,12 @@
+@media (max-width: 600px) {
+    body {
+               
+    }
+    .site-header {
+        
+    }
+
+    nav {
+        display: none;
+    }
+}

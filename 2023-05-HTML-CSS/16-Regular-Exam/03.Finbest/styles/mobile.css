@@ -1,0 +1,40 @@
+.mobile {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.image {
+    padding: 0 40px;
+    border: 3px dashed #ccc;
+}
+
+.mobile .container {
+    align-self: center;
+
+    width: 35%;
+    padding-left: 40px;
+}
+
+.mobile .container h3 {
+    font-size: 50px;
+    margin-bottom: 40px;
+}
+
+
+.mobile .container h4 {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.mobile .container p {
+    font-size: 19px;
+    margin-bottom: 30px;
+}
+
+.mobile .container a {
+    font-size: 19px;
+    color: #000;
+    border-bottom: 1px solid #000;
+    padding: 8px 0;
+}
