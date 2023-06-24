@@ -404,6 +404,6 @@ FodyWeavers.xsd
 
 # Problems Description
 *.docx
+#*.pdf
 
 #*.mp4
-
