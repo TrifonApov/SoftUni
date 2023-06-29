@@ -18,6 +18,5 @@ function solve (startingYield) {
     console.log(yieldCount);
 }
 
-
 solve(0);
 solve(450);

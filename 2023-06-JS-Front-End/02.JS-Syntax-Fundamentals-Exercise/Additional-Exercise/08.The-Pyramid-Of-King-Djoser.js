@@ -32,7 +32,10 @@ function solve (base, increment) {
     console.log(`Final pyramid height: ${Math.floor(stepCount*increment)}`);
 }
 
-
+for (let i = 0; i<10; i++){
+    console.log(i);
+         console.log(i+1000);
+}
 // solve(11,1);
 // console.log('-----------');
 // solve(11,0.75);
