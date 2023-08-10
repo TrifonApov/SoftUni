@@ -1,9 +1,5 @@
-const person = {
-    fName: 'Trifon',
-    lName: 'Apov',
-    age: 35,
-    info: () => `${this.fName} ${this.lName} - ${this.age}`
+function printText(text) {
+  console.log("asds");
 }
 
-
-console.log(person.info());
+printText("JavaScript");
