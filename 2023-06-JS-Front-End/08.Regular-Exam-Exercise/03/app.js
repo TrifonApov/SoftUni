@@ -1,4 +1,5 @@
 const BASE_URL = `http://localhost:3030/jsonstore/tasks/`;
+let id = "";
 const selectors = {
   loadVacations: document.querySelector("#load-vacations"),
   list: document.querySelector("#list"),
@@ -78,7 +79,7 @@ function addVacation(event) {
     .catch(console.error());
 }
 
-function editVacations(event) {
+async function editVacations(event) {
   const [name, fromDate, days] = Array.from(
     event.currentTarget.parentElement.children
   ).splice(0, 3);
@@ -86,17 +87,21 @@ function editVacations(event) {
   selectors.inputFromDate.value = fromDate.textContent;
   selectors.inputNumberOfDays.value = days.textContent;
 
+  const vacations = await (await fetch(BASE_URL)).json();
+  id = Object.values(vacations).find((v) => v.name === name.textContent)[`_id`];
+
   selectors.addVacationBtn.disabled = true;
   selectors.confirmEditBtn.disabled = false;
 }
 
-function confirmEdit(event) {
+async function confirmEdit(event) {
   event.preventDefault();
 
   const editedVacation = {
     name: selectors.inputName.value,
     days: selectors.inputNumberOfDays.value,
     date: selectors.inputFromDate.value,
+    _id: id,
   };
 
   if (Object.values(editedVacation).some((value) => !value)) {
@@ -104,16 +109,21 @@ function confirmEdit(event) {
     return;
   }
 
-  const httpHeaders = {
+  const headers = {
     method: "PUT",
     body: JSON.stringify(editedVacation),
   };
 
-  // ToDo: "Get ID to user"
-
-  // fetch(`${BASE_URL}${id}`, httpHeaders)
-  //   .then(loadVacations())
-  //   .catch(console.error());
+  fetch(`${BASE_URL}${id}`, headers)
+    .then(() => {
+      selectors.inputName.value = "";
+      selectors.inputNumberOfDays.value = "";
+      selectors.inputFromDate.value = "";
+      selectors.confirmEditBtn.disabled = true;
+      selectors.addVacationBtn.disabled = false;
+      loadVacations();
+    })
+    .catch(console.error());
 }
 
 async function doneVacations(event) {
