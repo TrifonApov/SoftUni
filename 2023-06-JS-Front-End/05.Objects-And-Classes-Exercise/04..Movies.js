@@ -1,6 +1,6 @@
 function solve (commands) {
     let movies = [];
-
+     const kur = 'kur';
     for (const command of commands) {
         if (command.includes('addMovie')) {
             let splitedCommand = command.split(' ');
