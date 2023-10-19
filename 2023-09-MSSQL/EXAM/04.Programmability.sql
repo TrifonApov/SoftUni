@@ -1,0 +1,29 @@
+-- Problem 11
+--CREATE FUNCTION udf_RoomsWithTourists (@name NVARCHAR(40))
+--RETURNS INT
+--AS
+--BEGIN
+--	DECLARE @result INT = 
+--	(
+--		SELECT SUM(b.AdultsCount + b.ChildrenCount) FROM Tourists AS t
+--		JOIN Bookings AS b ON t.Id = b.TouristId
+--		JOIN Rooms AS r ON b.RoomId = r.Id
+--		WHERE r.Type = @name
+--	)
+--	RETURN @result
+--END
+
+---- Problem 12
+--CREATE PROC usp_SearchByCountry (@country NVARCHAR(50))
+--AS
+--	SELECT 
+--		t.[Name]
+--		, t.PhoneNumber
+--		, t.Email
+--		, COUNT(b.Id) AS 'CountOfBookings'
+--	FROM Tourists AS t
+--	JOIN Bookings AS b ON t.Id = b.TouristId
+--	JOIN Countries AS c ON t.CountryId = c.Id
+--	WHERE c.[Name] = @country
+--	GROUP BY t.[Name], t.PhoneNumber, t.Email
+--	ORDER BY 'CountOfBookings' DESC
