@@ -39,6 +39,8 @@ GROUP BY v.Id, v.Name
 ORDER BY COUNT(mv.VillainId)
 
 --Problem 03
+DECLARE @Id INT = 1
+
 SELECT Name FROM Villains WHERE Id = @Id
 
 SELECT ROW_NUMBER() OVER (ORDER BY m.Name) AS RowNum,
