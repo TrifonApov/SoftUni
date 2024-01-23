@@ -6,11 +6,11 @@ namespace ADO.NET_Exercises
     {
         static void Main(string[] args)
         {
-            using SqlConnection sqlConnection = new SqlConnection(Config.ConnectionSting);
+            SqlConnection sqlConnection = new SqlConnection(Config.ConnectionSting);
+            //Console.WriteLine("Kur");
             sqlConnection.Open();
 
-            Console.WriteLine("Kur");
-            using SqlCommand command = new SqlCommand(
+            SqlCommand command = new SqlCommand(
                 @"SELECT v.Name, COUNT(mv.VillainId) AS MinionsCount
                     FROM Villains AS v 
                     JOIN MinionsVillains AS mv ON v.Id = mv.VillainId 
@@ -18,7 +18,7 @@ namespace ADO.NET_Exercises
                     HAVING COUNT(mv.VillainId) > 3 
                     ORDER BY COUNT(mv.VillainId)", sqlConnection);
 
-            using SqlDataReader result = command.ExecuteReader();
+            SqlDataReader result = command.ExecuteReader();
 
             while (result.Read())
             {
