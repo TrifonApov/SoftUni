@@ -3,6 +3,6 @@
     internal static class Config
     {
         public const string ConnectionSting =
-            @"Server=TRIFON;Database=MinionsDB;Integrated Security=True;TrustServerCertificate=True";
+            @"Server=TRIFON-DESKTOP\SQLEXPRESS;Database=MinionsDB;Integrated Security=False;Trusted_Connection=True";
     }
 }

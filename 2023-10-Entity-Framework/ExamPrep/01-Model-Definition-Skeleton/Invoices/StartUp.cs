@@ -8,8 +8,11 @@ namespace Invoices
     {
         public static void Main()
         {
+<<<<<<< HEAD
             CultureInfo.DefaultThreadCurrentCulture = CultureInfo.InvariantCulture;
 
+=======
+>>>>>>> c516b297b9447f172fdd4545a3a62d772d4519a6
             var context = new InvoicesContext();
 
             ResetDatabase(context, shouldDropDatabase: true);

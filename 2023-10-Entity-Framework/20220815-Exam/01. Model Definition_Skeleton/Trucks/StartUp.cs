@@ -38,8 +38,13 @@
             PrintAndExportEntityToFile(despatchers, exportDir + "Actual Result - ImportDespatchers.txt");
 
             var clients =
+<<<<<<< HEAD
             DataProcessor.Deserializer.ImportClient(context,
                 File.ReadAllText(baseDir + "clients.json"));
+=======
+             DataProcessor.Deserializer.ImportClient(context,
+                 File.ReadAllText(baseDir + "clients.json"));
+>>>>>>> c516b297b9447f172fdd4545a3a62d772d4519a6
 
             PrintAndExportEntityToFile(clients, exportDir + "Actual Result - ImportClients.txt");
         }

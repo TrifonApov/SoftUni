@@ -1,7 +1,11 @@
 ﻿using System.Text;
 using System.Xml.Serialization;
 
+<<<<<<< HEAD
 namespace Trucks.Extensions
+=======
+namespace Boardgames.Extensions
+>>>>>>> c516b297b9447f172fdd4545a3a62d772d4519a6
 {
     public static class XmlSerializationExtension
     {
@@ -21,7 +25,11 @@ namespace Trucks.Extensions
                 result = Encoding.UTF8.GetString(ms.ToArray());
             }
 
+<<<<<<< HEAD
             return result;
+=======
+            return result.TrimEnd();
+>>>>>>> c516b297b9447f172fdd4545a3a62d772d4519a6
         }
 
         public static T DeserializeFromXml<T>(this string xmlString, string rootName)

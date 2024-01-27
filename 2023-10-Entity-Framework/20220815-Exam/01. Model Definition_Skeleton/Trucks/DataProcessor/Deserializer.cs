@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using Trucks.Data.Models.Enums;
 using Trucks.DataProcessor.ImportDto;
 using Trucks.Extensions;
@@ -8,6 +9,12 @@ namespace Trucks.DataProcessor
     using System.Text;
     using Data;
     using Trucks.Data.Models;
+=======
+﻿namespace Trucks.DataProcessor
+{
+    using System.ComponentModel.DataAnnotations;
+    using Data;
+>>>>>>> c516b297b9447f172fdd4545a3a62d772d4519a6
 
 
     public class Deserializer
@@ -22,6 +29,7 @@ namespace Trucks.DataProcessor
 
         public static string ImportDespatcher(TrucksContext context, string xmlString)
         {
+<<<<<<< HEAD
             StringBuilder result = new StringBuilder();
 
             var importDespatchersDTOs = xmlString.DeserializeFromXml<ImportDespatcherDTO[]>("Despatchers");
@@ -117,6 +125,13 @@ namespace Trucks.DataProcessor
             context.SaveChanges();
 
             return result.ToString().TrimEnd();
+=======
+            throw new NotImplementedException();
+        }
+        public static string ImportClient(TrucksContext context, string jsonString)
+        {
+            throw new NotImplementedException();
+>>>>>>> c516b297b9447f172fdd4545a3a62d772d4519a6
         }
 
         private static bool IsValid(object dto)

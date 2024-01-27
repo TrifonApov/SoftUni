@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using System.ComponentModel.DataAnnotations;
 using System.Xml.Serialization;
 
@@ -23,5 +24,11 @@ namespace Invoices.DataProcessor.ImportDto
         [Required]
         [StringLength(15, MinimumLength = 5)]
         public string Country { get; set; }
+=======
+﻿namespace Invoices.DataProcessor.ImportDto
+{
+    public class ImportAddressDTO
+    {
+>>>>>>> c516b297b9447f172fdd4545a3a62d772d4519a6
     }
 }

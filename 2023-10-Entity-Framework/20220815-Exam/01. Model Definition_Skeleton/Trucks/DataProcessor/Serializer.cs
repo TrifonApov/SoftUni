@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using Trucks.DataProcessor.ExportDto;
 using Trucks.Extensions;
 
@@ -5,11 +6,17 @@ namespace Trucks.DataProcessor
 {
     using Data;
     using Trucks.Data.Models.Enums;
+=======
+﻿namespace Trucks.DataProcessor
+{
+    using Data;
+>>>>>>> c516b297b9447f172fdd4545a3a62d772d4519a6
 
     public class Serializer
     {
         public static string ExportDespatchersWithTheirTrucks(TrucksContext context)
         {
+<<<<<<< HEAD
             var despatchers = context
                 .Despatchers
                 .Where(d=>d.Trucks.Any())
@@ -32,10 +39,14 @@ namespace Trucks.DataProcessor
                 .ToArray();
 
             return despatchers.SerializeToXml("Despatchers").TrimEnd();
+=======
+            throw new NotImplementedException();
+>>>>>>> c516b297b9447f172fdd4545a3a62d772d4519a6
         }
 
         public static string ExportClientsWithMostTrucks(TrucksContext context, int capacity)
         {
+<<<<<<< HEAD
             var clientsWithMostTrucks = context.Clients
                 .Where(c => c.ClientsTrucks.Any(ct => ct.Truck.TankCapacity >= capacity))
                 .ToArray()
@@ -65,6 +76,9 @@ namespace Trucks.DataProcessor
             var result = clientsWithMostTrucks.SerializeToJson();
 
             return result.TrimEnd();
+=======
+            throw new NotImplementedException();
+>>>>>>> c516b297b9447f172fdd4545a3a62d772d4519a6
         }
     }
 }

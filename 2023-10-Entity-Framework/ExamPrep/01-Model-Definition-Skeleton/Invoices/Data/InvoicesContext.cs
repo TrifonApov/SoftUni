@@ -1,5 +1,9 @@
 ﻿using Invoices.Data.Models;
 using Microsoft.EntityFrameworkCore;
+<<<<<<< HEAD
+=======
+using Microsoft.Extensions.Configuration;
+>>>>>>> c516b297b9447f172fdd4545a3a62d772d4519a6
 
 namespace Invoices.Data
 {

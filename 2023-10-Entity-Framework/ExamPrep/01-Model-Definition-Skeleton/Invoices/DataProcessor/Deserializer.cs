@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using System.Text;
 using Invoices.Data.Models;
 using Invoices.Extensions;
@@ -5,6 +6,12 @@ using Invoices.Extensions;
 namespace Invoices.DataProcessor
 {
     using System.ComponentModel.DataAnnotations;
+=======
+﻿namespace Invoices.DataProcessor
+{
+    using System.ComponentModel.DataAnnotations;
+    using System.Xml.Serialization;
+>>>>>>> c516b297b9447f172fdd4545a3a62d772d4519a6
     using Invoices.Data;
     using Invoices.DataProcessor.ImportDto;
 
@@ -24,6 +31,7 @@ namespace Invoices.DataProcessor
 
         public static string ImportClients(InvoicesContext context, string xmlString)
         {
+<<<<<<< HEAD
             StringBuilder result = new StringBuilder();
 
             // Deserialize Info From XML
@@ -73,11 +81,16 @@ namespace Invoices.DataProcessor
             context.SaveChanges();
 
             return result.ToString().TrimEnd();
+=======
+            throw new NotImplementedException();
+
+>>>>>>> c516b297b9447f172fdd4545a3a62d772d4519a6
         }
 
 
         public static string ImportInvoices(InvoicesContext context, string jsonString)
         {
+<<<<<<< HEAD
             StringBuilder result = new StringBuilder();
 
             var ImportInvoicesDTOs = jsonString.DeserializeFromJson<ImportInvoiceDTO[]>();
@@ -117,10 +130,14 @@ namespace Invoices.DataProcessor
             context.SaveChanges();
 
             return result.ToString().TrimEnd();
+=======
+            throw new NotImplementedException();
+>>>>>>> c516b297b9447f172fdd4545a3a62d772d4519a6
         }
 
         public static string ImportProducts(InvoicesContext context, string jsonString)
         {
+<<<<<<< HEAD
             StringBuilder result = new StringBuilder();
 
             var productDTOs = jsonString.DeserializeFromJson<ImportProductDTO[]>();
@@ -167,6 +184,11 @@ namespace Invoices.DataProcessor
             context.SaveChanges();
 
             return result.ToString().TrimEnd();
+=======
+
+
+            throw new NotImplementedException();
+>>>>>>> c516b297b9447f172fdd4545a3a62d772d4519a6
         }
 
         public static bool IsValid(object dto)
