@@ -1,0 +1,26 @@
+ string SerializeObject<T>(T data, string rootElement) where T : class
+        {
+            string result = null;
+            XmlSerializer serializer = new XmlSerializer(typeof(T), new XmlRootAttribute(rootElement));
+
+            using (MemoryStream ms = new MemoryStream())
+            {
+                serializer.Serialize(ms, data);
+
+                result = Encoding.UTF8.GetString(ms.ToArray());
+            }
+
+            return result;
+        }
+
+        T DeserializeXlm<T>(string xml, string rootElement) where T : class
+        {
+            T result = default(T);
+            XmlSerializer xmlSerializer = new XmlSerializer(typeof(T), new XmlRootAttribute(rootElement));
+            using (MemoryStream ms = new MemoryStream(Encoding.UTF8.GetBytes(xml)))
+            {
+                result = (T)xmlSerializer.Deserialize((ms));
+            }
+
+            return result;
+        }
