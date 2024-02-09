@@ -1,7 +1,11 @@
 ﻿using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
+<<<<<<< HEAD
+namespace Trucks.Extensions
+=======
 namespace Boardgames.Extensions
+>>>>>>> c516b297b9447f172fdd4545a3a62d772d4519a6
 {
     public static class JsonSerializationExtension
     {

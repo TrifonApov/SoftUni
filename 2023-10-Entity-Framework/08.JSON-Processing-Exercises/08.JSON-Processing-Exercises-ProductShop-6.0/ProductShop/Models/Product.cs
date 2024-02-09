@@ -19,7 +19,11 @@
         public User Seller { get; set; } = null!;
 
         public int? BuyerId { get; set; }
+<<<<<<< HEAD
+        public User Buyer { get; set; } = null!;
+=======
         public User? Buyer { get; set; }
+>>>>>>> c516b297b9447f172fdd4545a3a62d772d4519a6
 
         public ICollection<CategoryProduct> CategoriesProducts { get; set; }
     }

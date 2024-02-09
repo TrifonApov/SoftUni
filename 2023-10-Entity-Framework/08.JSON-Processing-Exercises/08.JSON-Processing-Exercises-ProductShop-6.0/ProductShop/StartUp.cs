@@ -1,14 +1,20 @@
+<<<<<<< HEAD
+﻿namespace ProductShop
+=======
 ﻿using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 using ProductShop.Data;
 using ProductShop.Models;
 
 namespace ProductShop
+>>>>>>> c516b297b9447f172fdd4545a3a62d772d4519a6
 {
     public class StartUp
     {
         public static void Main()
         {
+<<<<<<< HEAD
+=======
             ProductShopContext context = new ProductShopContext();
 
             //string usersJson = File.ReadAllText(@"../../../Datasets/users.json");
@@ -115,6 +121,7 @@ namespace ProductShop
 
             string usersJson = JsonConvert.SerializeObject(users, Formatting.Indented);
             return usersJson;
+>>>>>>> c516b297b9447f172fdd4545a3a62d772d4519a6
         }
     }
 }

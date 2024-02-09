@@ -23,7 +23,10 @@ namespace SoftUni
             // Console.WriteLine(GetEmployeesFromResearchAndDevelopment(context));
 
             // Problem 06
-            Console.WriteLine(AddNewAddressToEmployee(context));
+            //Console.WriteLine(AddNewAddressToEmployee(context));
+
+            // Problem 07
+            Console.WriteLine(GetEmployeesInPeriod(context));
         }
 
         public static string GetEmployeesFullInformation(SoftUniContext context)
@@ -61,7 +64,7 @@ namespace SoftUni
                 })
                 .OrderBy(e => e.FirstName)
                 .ToList();
-            
+
             StringBuilder result = new();
             foreach (var employee in employees)
             {
@@ -81,25 +84,25 @@ namespace SoftUni
                     e.Department.Name,
                     e.Salary
                 })
-                .OrderBy(e=>e.Salary)
-                .ThenByDescending(e=>e.FirstName)
+                .OrderBy(e => e.Salary)
+                .ThenByDescending(e => e.FirstName)
                 .ToList();
 
             //Console.WriteLine(employees.ToQueryString());
-            
+
             StringBuilder result = new();
             foreach (var employee in employees)
             {
                 result.AppendLine(
                     $"{employee.FirstName} {employee.LastName} from {employee.Name} = {employee.Salary:F2}");
             }
-            
+
             return result.ToString();
         }
 
         public static string AddNewAddressToEmployee(SoftUniContext context)
         {
-            Address address = new ()
+            Address address = new()
             {
                 AddressText = "Vitoshka 15",
                 TownId = 4
@@ -128,5 +131,36 @@ namespace SoftUni
             }
             return result.ToString();
         }
+
+        public static string GetEmployeesInPeriod(SoftUniContext context)
+        {
+            var employees = context.Employees
+                .Select(e => new
+                {
+                    EmployeeName = e.FirstName + " " + e.LastName,
+                    ManagerName = e.Manager.FirstName + " " + e.Manager.LastName,
+                    Projects = e.Projects
+                        .Where(p => p.StartDate.Year >= 2001 && p.StartDate.Year <= 2003)
+                        .Select(p=>new
+                        {
+                            p.Name,
+                            p.StartDate,
+                            p.EndDate
+                        })
+                });
+            //Console.WriteLine(employees.ToQueryString());
+            StringBuilder result = new();
+            foreach (var employee in employees)
+            {
+                result.AppendLine($"{employee.EmployeeName} - Manager: {employee.ManagerName}");
+                foreach (var project in employee.Projects)
+                {
+                    string endDate = project.EndDate == null ? "not finished" : project.EndDate.ToString();
+                    result.AppendLine($"--{project.Name} - {project.StartDate} - {endDate}");
+                }
+            }     
+            return result.ToString();
+        }
+
     }
 }
